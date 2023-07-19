@@ -1,3 +1,20 @@
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn import metrics
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import roc_curve, auc, roc_auc_score
+from sklearn.metrics import classification_report, f1_score, accuracy_score, confusion_matrix, plot_confusion_matrix
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.pipeline import Pipeline
+from pprint import pprint
+from sklearn.model_selection import GridSearchCV
+
 absolute_path = os.path.dirname(__file__)
 relative_path = "test_data.csv"
 full_path = os.path.join(absolute_path, relative_path)
@@ -18,9 +35,6 @@ parameter_grid = {
     "clf__alpha": np.logspace(-6, 6, 13),
 }
 
-from pprint import pprint
-
-from sklearn.model_selection import GridSearchCV
 
 grid_search = GridSearchCV(
     estimator=pipeline,
