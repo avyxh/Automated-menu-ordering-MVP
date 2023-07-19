@@ -1,0 +1,10 @@
+Explanation of Pipeline and GridSearchCV
+1. https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_text_feature_extraction.html
+2. https://stackoverflow.com/questions/44066264/how-to-choose-parameters-in-tfidfvectorizer-in-sklearn-during-unsupervised-clust
+
+Explanation of tfidf:
+1. https://monkeylearn.com/blog/what-is-tf-idf/
+2. https://www.geeksforgeeks.org/understanding-tf-idf-term-frequency-inverse-document-frequency/
+
+Improving test classification results:
+1. https://medium.datadriveninvestor.com/improve-the-text-classification-results-with-a-suitable-preprocessing-step-gridsearchcv-and-f19cb3e182a3
