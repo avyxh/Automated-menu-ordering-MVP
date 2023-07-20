@@ -1,0 +1,722 @@
+descriptor,item
+" Iced Coffee with Vanilla syrup and whipped cream
+2",Iced Coffee
+" Iced Coffee with Caramel drizzle and a splash of milk
+3",Iced Coffee
+" Iced Coffee with Hazelnut flavoring and a swirl of chocolate syrup
+4",Iced Coffee
+" Iced Coffee with Mocha sauce and a dollop of whipped cream
+5",Iced Coffee
+" Iced Coffee with Cinnamon flavoring and a sprinkle of cocoa powder
+6",Iced Coffee
+" Iced Coffee with French Vanilla syrup and a dash of caramel
+7",Iced Coffee
+" Iced Coffee with Irish Cream flavoring and a swirl of whipped cream
+8",Iced Coffee
+" Iced Coffee with Coconut syrup and a sprinkle of toasted coconut flakes
+9",Iced Coffee
+" Iced Coffee with Almond flavoring and a drizzle of chocolate syrup
+10",Iced Coffee
+" Iced Coffee with Pumpkin spice and a touch of cinnamon
+11",Iced Coffee
+" Iced Coffee with Peppermint syrup and a swirl of whipped cream
+12",Iced Coffee
+" Iced Coffee with Toffee nut flavoring and a sprinkle of chopped nuts
+13",Iced Coffee
+" Iced Coffee with White Chocolate sauce and a dollop of whipped cream
+14",Iced Coffee
+" Iced Coffee with Raspberry flavoring and a swirl of chocolate syrup
+15",Iced Coffee
+" Iced Coffee with Caramel drizzle and a dash of vanilla syrup
+16",Iced Coffee
+" Iced Coffee with Hazelnut flavoring and a sprinkle of cocoa powder
+17",Iced Coffee
+" Iced Coffee with Mocha sauce and a swirl of caramel
+18",Iced Coffee
+" Iced Coffee with Cinnamon flavoring and a touch of whipped cream
+19",Iced Coffee
+" Iced Coffee with French Vanilla syrup and a sprinkle of cinnamon sugar
+20",Iced Coffee
+" Iced Coffee with Irish Cream flavoring and a splash of chocolate syrup
+21",Iced Coffee
+" Iced Coffee with Coconut syrup and a dollop of whipped cream
+22",Iced Coffee
+" Iced Coffee with Almond flavoring and a drizzle of caramel
+23",Iced Coffee
+" Iced Coffee with Pumpkin spice and a swirl of whipped cream
+24",Iced Coffee
+" Iced Coffee with Peppermint syrup and a sprinkle of crushed peppermint candy
+25",Iced Coffee
+" Iced Coffee with Toffee nut flavoring and a touch of chocolate syrup
+26",Iced Coffee
+" Iced Coffee with White Chocolate sauce and a dash of vanilla syrup
+27",Iced Coffee
+" Iced Coffee with Raspberry flavoring and a swirl of whipped cream
+28",Iced Coffee
+" Iced Coffee with Caramel drizzle and a sprinkle of cinnamon sugar
+29",Iced Coffee
+" Iced Coffee with Hazelnut flavoring and a dash of cocoa powder
+30",Iced Coffee
+" Iced Coffee with Mocha sauce and a swirl of vanilla syrup
+31",Iced Coffee
+" Iced Coffee with Cinnamon flavoring and a dollop of whipped cream
+32",Iced Coffee
+" Iced Coffee with French Vanilla syrup and a drizzle of caramel
+33",Iced Coffee
+" Iced Coffee with Irish Cream flavoring and a sprinkle of chocolate shavings
+34",Iced Coffee
+" Iced Coffee with Coconut syrup and a touch of whipped cream
+35",Iced Coffee
+" Iced Coffee with Almond flavoring and a dash of chocolate syrup
+36",Iced Coffee
+" Iced Coffee with Pumpkin spice and a swirl of caramel
+37",Iced Coffee
+" Iced Coffee with Peppermint syrup and a sprinkle of cocoa powder
+38",Iced Coffee
+" Iced Coffee with Toffee nut flavoring and a dollop of whipped cream
+39",Iced Coffee
+" Iced Coffee with White Chocolate sauce and a sprinkle of cinnamon sugar
+40",Iced Coffee
+" Iced Coffee with Raspberry flavoring and a dash of vanilla syrup
+41",Iced Coffee
+" Iced Coffee with Caramel drizzle and a touch of hazelnut flavoring
+42",Iced Coffee
+" Iced Coffee with Hazelnut flavoring and a swirl of chocolate shavings
+43",Iced Coffee
+" Iced Coffee with Mocha sauce and a sprinkle of whipped cream
+44",Iced Coffee
+" Iced Coffee with Cinnamon flavoring and a drizzle of caramel
+45",Iced Coffee
+" Iced Coffee with French Vanilla syrup and a dash of chocolate syrup
+46",Iced Coffee
+" Iced Coffee with Irish Cream flavoring and a touch of whipped cream
+47",Iced Coffee
+" Iced Coffee with Coconut syrup and a swirl of caramel
+48",Iced Coffee
+" Iced Coffee with Almond flavoring and a sprinkle of cocoa powder
+49",Iced Coffee
+" Iced Coffee with Pumpkin spice and a dollop of whipped cream
+50",Iced Coffee
+" Iced Coffee with Peppermint syrup and a sprinkle of vanilla sugar
+
+Creative Iced Coffee Orders:
+51",Iced Coffee
+" Frosty Chiller with a splash of milk
+52",Iced Coffee
+" Ice-Blended Delight with a hint of caramel
+53",Iced Coffee
+" Chilled Bean Brew with a dash of chocolate syrup
+54",Iced Coffee
+" Refreshing Coffee on the Rocks with a swirl of whipped cream
+55",Iced Coffee
+" Java Freeze with a sprinkle of cocoa powder
+56",Iced Coffee
+" Frozen Bean Delight with a twist of French Vanilla
+57",Iced Coffee
+" Chilled Arabica Blend with a drop of Irish Cream
+58",Iced Coffee
+" Coconut Frost with a sprinkle of toasted coconut flakes
+59",Iced Coffee
+" Almond Java Fusion with a drizzle of chocolate syrup
+60",Iced Coffee
+" Frosty Pumpkin Swirl with a touch of cinnamon
+61",Iced Coffee
+" Peppermint Caf� Frost with a swirl of whipped cream
+62",Iced Coffee
+" Nutty Coffee Blizzard with a sprinkle of chopped nuts
+63",Iced Coffee
+" Creamy White Chocolate Delight with a dollop of whipped cream
+64",Iced Coffee
+" Raspberry Java Freeze with a swirl of chocolate syrup
+65",Iced Coffee
+" Java Chill with a dash of caramel
+66",Iced Coffee
+" Chocolate-Hazelnut Crunch with a sprinkle of cocoa powder
+67",Iced Coffee
+" Mocha Dream with a swirl of caramel
+68",Iced Coffee
+" Cinnamon Bean Frost with a touch of whipped cream
+69",Iced Coffee
+" Frosted Vanilla Blend with a sprinkle of cinnamon sugar
+70",Iced Coffee
+" Irish Coffee Freeze with a splash of chocolate syrup
+71",Iced Coffee
+" Creamy Coconut Fusion with a dollop of whipped cream
+72",Iced Coffee
+" Mocha-Almond Delight with a drizzle of caramel
+73",Iced Coffee
+" Pumpkin Spice Frost with a swirl of whipped cream
+74",Iced Coffee
+" Peppermint Mocha Swirl with a sprinkle of crushed peppermint candy
+75",Iced Coffee
+" Nutty Toffee Blizzard with a touch of chocolate syrup
+76",Iced Coffee
+" Vanilla Dream Freeze with a dash of vanilla syrup
+77",Iced Coffee
+" Raspberry Bean Frost with a swirl of whipped cream
+78",Iced Coffee
+" Chill of Caramel with a sprinkle of cinnamon sugar
+79",Iced Coffee
+" Hazelnut Java Fusion with a dash of cocoa powder
+80",Iced Coffee
+" Mocha Freeze with a swirl of vanilla syrup
+81",Iced Coffee
+" Cinnamon Ice Blend with a dollop of whipped cream
+82",Iced Coffee
+" Creamy French Vanilla Delight with a drizzle of caramel
+83",Iced Coffee
+" Irish Cocoa Chill with a sprinkle of chocolate shavings
+84",Iced Coffee
+" Coconut Frappe with a touch of whipped cream
+85",Iced Coffee
+" Almond Mocha Crunch with a dash of chocolate syrup
+86",Iced Coffee
+" Pumpkin Frosty Swirl with a swirl of caramel
+87",Iced Coffee
+" Peppermint delight with a sprinkle of cocoa powder
+88",Iced Coffee
+" Toffee Dream Freeze with a dollop of whipped cream
+89",Iced Coffee
+" White Chocolate Bean Frost with a sprinkle of cinnamon sugar
+90",Iced Coffee
+" Raspberry Mocha Swirl with a dash of vanilla syrup
+91",Iced Coffee
+" Caramel Chill with a touch of hazelnut flavoring
+92",Iced Coffee
+" Hazelnut Chocolate Crunch with a swirl of chocolate shavings
+93",Iced Coffee
+" Java Freeze with a sprinkle of whipped cream
+94",Iced Coffee
+" Cinnamon Mocha Chill with a drizzle of caramel
+95",Iced Coffee
+" French Vanilla Delight with a dash of chocolate syrup
+96",Iced Coffee
+" Irish Whipped Frost with a touch of whipped cream
+97",Iced Coffee
+" Caribbean Coconut Chill with a swirl of caramel
+98",Iced Coffee
+" Almond Mocha Fusion with a sprinkle of cocoa powder
+99",Iced Coffee
+" Pumpkin Java Freeze with a dollop of whipped cream
+100",Iced Coffee
+ Peppermint Frosted Swirl with a sprinkle of vanilla sugar,Iced Coffee
+Quarter Pounder with Cheese,Quarter Pounder
+" Just the classic Quarter Pounder with a delicious slice of cheese
+Quarter Pounder Deluxe",Quarter Pounder
+ A Quarter Pounder with all the fixings - lettuce,Quarter Pounder
+ tomato,Quarter Pounder
+ onion,Quarter Pounder
+" and mayo
+Quarter Pounder Bacon",Quarter Pounder
+" Crispy bacon added to the perfect Quarter Pounder patty
+Quarter Pounder BBQ",Quarter Pounder
+ Smothered in tangy BBQ sauce,Quarter Pounder
+" this Quarter Pounder is a flavor explosion
+Quarter Pounder Mushroom Swiss",Quarter Pounder
+ Topped with saut�ed mushrooms and melted Swiss cheese,Quarter Pounder
+" a Quarter Pounder to savor
+Quarter Pounder BLT",Quarter Pounder
+ The classic bacon,Quarter Pounder
+ lettuce,Quarter Pounder
+" and tomato combo added to the Quarter Pounder
+Quarter Pounder Jalapeno",Quarter Pounder
+ For those who like it spicy,Quarter Pounder
+" this Quarter Pounder is topped with fiery jalapenos
+Quarter Pounder Bacon Ranch",Quarter Pounder
+" Crispy bacon and creamy ranch dressing take the Quarter Pounder to new heights
+Quarter Pounder Guacamole",Quarter Pounder
+" Fresh guacamole adds a delicious twist to the classic Quarter Pounder
+Quarter Pounder Onion Lover's",Quarter Pounder
+ Piled high with crispy onions,Quarter Pounder
+" this Quarter Pounder is perfect for onion lovers
+Quarter Pounder Hawaiian",Quarter Pounder
+" A taste of the islands with juicy pineapple and tangy teriyaki sauce on the Quarter Pounder
+Quarter Pounder Southwest",Quarter Pounder
+ With smoky chipotle sauce and spicy pepper jack cheese,Quarter Pounder
+" this Quarter Pounder has a kick
+Quarter Pounder Veggie",Quarter Pounder
+ A meatless option with a flavorful veggie patty,Quarter Pounder
+" perfect for veggie lovers
+Quarter Pounder Philly Style",Quarter Pounder
+ Inspired by Philly cheesesteaks,Quarter Pounder
+ this Quarter Pounder is loaded with saut�ed peppers,Quarter Pounder
+ onions,Quarter Pounder
+" and melted cheese
+Quarter Pounder BBQ Bacon",Quarter Pounder
+" Tangy BBQ sauce and crispy bacon make this Quarter Pounder a crowd pleaser
+Quarter Pounder Buffalo",Quarter Pounder
+" Spicy buffalo sauce brings a kick to this Quarter Pounder
+Quarter Pounder Bacon Guacamole",Quarter Pounder
+" Crispy bacon and fresh guacamole combine for a delicious Quarter Pounder
+Quarter Pounder Teriyaki",Quarter Pounder
+" Sweet and savory teriyaki sauce adds a unique twist to the Quarter Pounder
+Quarter Pounder Mushroom Swiss Bacon",Quarter Pounder
+ Saut�ed mushrooms,Quarter Pounder
+ melted Swiss cheese,Quarter Pounder
+" and crispy bacon on the Quarter Pounder
+Quarter Pounder Chili Cheese",Quarter Pounder
+ Topped with hearty chili and melted cheese,Quarter Pounder
+" this Quarter Pounder is indulgent
+Quarter Pounder Double Cheese",Quarter Pounder
+" Double the cheese means double the flavor on this Quarter Pounder
+Quarter Pounder Western",Quarter Pounder
+ A taste of the wild west with tangy BBQ sauce,Quarter Pounder
+ crispy onion rings,Quarter Pounder
+" and melted American cheese on the Quarter Pounder
+Quarter Pounder Pesto",Quarter Pounder
+" A delicious twist with creamy basil pesto on the Quarter Pounder
+Quarter Pounder Caesar",Quarter Pounder
+ Inspired by the classic salad,Quarter Pounder
+" this Quarter Pounder features creamy Caesar dressing and crunchy croutons
+Quarter Pounder Nacho Style",Quarter Pounder
+" Bring the fiesta with spicy nacho cheese and crispy tortilla strips on the Quarter Pounder
+Quarter Pounder Honey Mustard",Quarter Pounder
+" Sweet and tangy honey mustard dressing takes this Quarter Pounder to the next level
+Quarter Pounder Greek",Quarter Pounder
+ Mediterranean flavors come alive with feta cheese,Quarter Pounder
+ cucumbers,Quarter Pounder
+" and tzatziki sauce on the Quarter Pounder
+Quarter Pounder Bacon Ranch Deluxe",Quarter Pounder
+ Crispy bacon,Quarter Pounder
+ creamy ranch,Quarter Pounder
+ lettuce,Quarter Pounder
+ tomato,Quarter Pounder
+ onion,Quarter Pounder
+" and mayo on the Quarter Pounder - deluxe style
+Quarter Pounder Sweet and Spicy",Quarter Pounder
+" A perfect balance of sweet and spicy with a special sauce on the Quarter Pounder
+Quarter Pounder Mediterranean",Quarter Pounder
+ Fresh flavors of the Mediterranean with roasted red peppers,Quarter Pounder
+ Kalamata olives,Quarter Pounder
+" and feta cheese on the Quarter Pounder
+Quarter Pounder Baconator",Quarter Pounder
+" This Quarter Pounder is loaded with crispy bacon and melted cheese - a bacon lover's dream
+Quarter Pounder Rancher",Quarter Pounder
+ Creamy ranch dressing,Quarter Pounder
+ crispy onion rings,Quarter Pounder
+" and melted American cheese on the Quarter Pounder
+Quarter Pounder Chipotle",Quarter Pounder
+" Smoky chipotle sauce gives this Quarter Pounder a bold and spicy flavor
+Quarter Pounder Caprese",Quarter Pounder
+ Inspired by the classic Italian salad,Quarter Pounder
+ this Quarter Pounder features juicy tomato,Quarter Pounder
+ fresh mozzarella,Quarter Pounder
+" and basil on a brioche bun
+Quarter Pounder Fiesta",Quarter Pounder
+ A fiesta in your mouth with spicy salsa,Quarter Pounder
+ crunchy tortilla chips,Quarter Pounder
+" and melted pepper jack cheese on the Quarter Pounder
+Quarter Pounder Truffle",Quarter Pounder
+" Elevate your Quarter Pounder with the rich and earthy flavors of truffle
+Quarter Pounder Bruschetta",Quarter Pounder
+ Classic Italian bruschetta toppings - fresh tomato,Quarter Pounder
+ basil,Quarter Pounder
+" and garlic - on the Quarter Pounder
+Quarter Pounder Spicy Sriracha",Quarter Pounder
+" Get a kick of heat with spicy sriracha sauce on the Quarter Pounder
+Quarter Pounder Mediterranean Veggie",Quarter Pounder
+ A veggie lover's dream with roasted red peppers,Quarter Pounder
+ Kalamata olives,Quarter Pounder
+ feta cheese,Quarter Pounder
+" and a flavorful veggie patty on the Quarter Pounder
+Quarter Pounder Bacon Onion Lover's",Quarter Pounder
+" Crispy bacon and piled-high crispy onions make this Quarter Pounder a flavor explosion for onion lovers
+Quarter Pounder Philly Cheesesteak",Quarter Pounder
+ Inspired by the iconic Philly sandwich,Quarter Pounder
+ this Quarter Pounder features thinly sliced steak,Quarter Pounder
+ saut�ed peppers,Quarter Pounder
+ onions,Quarter Pounder
+" and melted cheese
+Quarter Pounder Honey BBQ",Quarter Pounder
+" Tangy honey BBQ sauce takes this Quarter Pounder to new heights of deliciousness
+Quarter Pounder Spinach Feta",Quarter Pounder
+" Fresh spinach and creamy feta cheese lend a Mediterranean twist to the Quarter Pounder
+Quarter Pounder Smoky Bacon",Quarter Pounder
+" Crispy bacon infused with smoky flavor adds a delicious twist to the Quarter Pounder
+Quarter Pounder Hawaiian BBQ",Quarter Pounder
+ The flavors of Hawaii come alive with tangy teriyaki sauce,Quarter Pounder
+ juicy pineapple,Quarter Pounder
+" and crispy bacon on the Quarter Pounder
+Quarter Pounder Ghost Pepper",Quarter Pounder
+ For those who dare,Quarter Pounder
+" this Quarter Pounder is topped with fiery ghost pepper sauce
+Quarter Pounder BLT Deluxe",Quarter Pounder
+ Crispy bacon,Quarter Pounder
+ lettuce,Quarter Pounder
+ tomato,Quarter Pounder
+ onion,Quarter Pounder
+" and mayo - the classic BLT toppings - on the Quarter Pounder in deluxe style
+Quarter Pounder Sun-Dried Tomato Pesto",Quarter Pounder
+" A burst of flavor with sun-dried tomato pesto on the Quarter Pounder
+Quarter Pounder Tex-Mex",Quarter Pounder
+ A taste of Mexico with spicy salsa,Quarter Pounder
+ creamy guacamole,Quarter Pounder
+" and melted pepper jack cheese on the Quarter Pounder
+Quarter Pounder Chipotle Bacon",Quarter Pounder
+" Smoky chipotle sauce and crispy bacon take the Quarter Pounder to the next level
+Quarter Pounder Southwest Deluxe",Quarter Pounder
+ Smoky chipotle sauce,Quarter Pounder
+ pepper jack cheese,Quarter Pounder
+ lettuce,Quarter Pounder
+ tomato,Quarter Pounder
+ onion,Quarter Pounder
+" and mayo on the Quarter Pounder in deluxe style
+Pepper Jack Quarter Pounder",Quarter Pounder
+" Melted pepper jack cheese adds a kick to the classic Quarter Pounder
+Deluxe Quarter Pounder",Quarter Pounder
+ A Quarter Pounder with all the toppings - lettuce,Quarter Pounder
+ tomato,Quarter Pounder
+ onion,Quarter Pounder
+" and mayo - in deluxe style
+Bacon Lover's Quarter Pounder",Quarter Pounder
+ Piled high with crispy bacon,Quarter Pounder
+" this Quarter Pounder is a bacon lover's dream
+Texas BBQ Quarter Pounder",Quarter Pounder
+" A taste of the Lone Star State with tangy BBQ sauce and crispy onion rings on the Quarter Pounder
+Mushroom Swiss Quarter Pounder",Quarter Pounder
+" Saut�ed mushrooms and melted Swiss cheese take the Quarter Pounder to new heights
+BLT Quarter Pounder",Quarter Pounder
+ The classic bacon,Quarter Pounder
+ lettuce,Quarter Pounder
+" and tomato combo on the Quarter Pounder
+Jalapeno Quarter Pounder",Quarter Pounder
+ For those who like it spicy,Quarter Pounder
+" this Quarter Pounder is topped with fiery jalapenos
+Bacon Ranch Quarter Pounder",Quarter Pounder
+" Crispy bacon and creamy ranch dressing on the Quarter Pounder
+Guacamole Quarter Pounder",Quarter Pounder
+" Fresh guacamole adds a delicious twist to the classic Quarter Pounder
+Onion Lover's Quarter Pounder",Quarter Pounder
+ Piled high with crispy onions,Quarter Pounder
+" this Quarter Pounder is perfect for onion lovers
+Hawaiian Quarter Pounder",Quarter Pounder
+" A taste of the islands with juicy pineapple and tangy teriyaki sauce on the Quarter Pounder
+Southwest Quarter Pounder",Quarter Pounder
+ With smoky chipotle sauce and spicy pepper jack cheese,Quarter Pounder
+" this Quarter Pounder has a kick
+Veggie Quarter Pounder",Quarter Pounder
+ A meatless option with a flavorful veggie patty,Quarter Pounder
+" perfect for veggie lovers
+Philly Style Quarter Pounder",Quarter Pounder
+ Inspired by Philly cheesesteaks,Quarter Pounder
+ this Quarter Pounder is loaded with saut�ed peppers,Quarter Pounder
+ onions,Quarter Pounder
+" and melted cheese
+BBQ Bacon Quarter Pounder",Quarter Pounder
+" Tangy BBQ sauce and crispy bacon make this Quarter Pounder a crowd pleaser
+Buffalo Quarter Pounder",Quarter Pounder
+" Spicy buffalo sauce brings a kick to this Quarter Pounder
+Bacon Guacamole Quarter Pounder",Quarter Pounder
+" Crispy bacon and fresh guacamole combine for a delicious Quarter Pounder
+Teriyaki Quarter Pounder",Quarter Pounder
+" Sweet and savory teriyaki sauce adds a unique twist to the Quarter Pounder
+Mushroom Swiss Bacon Quarter Pounder",Quarter Pounder
+ Saut�ed mushrooms,Quarter Pounder
+ melted Swiss cheese,Quarter Pounder
+" and crispy bacon on the Quarter Pounder
+Chili Cheese Quarter Pounder",Quarter Pounder
+ Topped with hearty chili and melted cheese,Quarter Pounder
+" this Quarter Pounder is indulgent
+Double Cheese Quarter Pounder",Quarter Pounder
+" Double the cheese means double the flavor on this Quarter Pounder
+Western Quarter Pounder",Quarter Pounder
+ A taste of the wild west with tangy BBQ sauce,Quarter Pounder
+ crispy onion rings,Quarter Pounder
+" and melted American cheese on the Quarter Pounder
+Pesto Quarter Pounder",Quarter Pounder
+" A delicious twist with creamy basil pesto on the Quarter Pounder
+Caesar Quarter Pounder",Quarter Pounder
+ Inspired by the classic salad,Quarter Pounder
+" this Quarter Pounder features creamy Caesar dressing and crunchy croutons
+Nacho Style Quarter Pounder",Quarter Pounder
+" Bring the fiesta with spicy nacho cheese and crispy tortilla strips on the Quarter Pounder
+Honey Mustard Quarter Pounder",Quarter Pounder
+" Sweet and tangy honey mustard dressing takes this Quarter Pounder to the next level
+Greek Quarter Pounder",Quarter Pounder
+ Mediterranean flavors come alive with feta cheese,Quarter Pounder
+ cucumbers,Quarter Pounder
+" and tzatziki sauce on the Quarter Pounder
+Bacon Ranch Deluxe Quarter Pounder",Quarter Pounder
+ Crispy bacon,Quarter Pounder
+ creamy ranch,Quarter Pounder
+ lettuce,Quarter Pounder
+ tomato,Quarter Pounder
+ onion,Quarter Pounder
+" and mayo on the Quarter Pounder - deluxe style
+Sweet and Spicy Quarter Pounder",Quarter Pounder
+" A perfect balance of sweet and spicy with a special sauce on the Quarter Pounder
+Mediterranean Quarter Pounder",Quarter Pounder
+ Fresh flavors of the Mediterranean with roasted red peppers,Quarter Pounder
+ Kalamata olives,Quarter Pounder
+" and feta cheese on the Quarter Pounder
+Baconator Quarter Pounder",Quarter Pounder
+" This Quarter Pounder is loaded with crispy bacon and melted cheese - a bacon lover's dream
+Rancher Quarter Pounder",Quarter Pounder
+ Creamy ranch dressing,Quarter Pounder
+ crispy onion rings,Quarter Pounder
+" and melted American cheese on the Quarter Pounder
+Chipotle Quarter Pounder",Quarter Pounder
+" Smoky chipotle sauce gives this Quarter Pounder a bold and spicy flavor
+Caprese Quarter Pounder",Quarter Pounder
+ Inspired by the classic Italian salad,Quarter Pounder
+ this Quarter Pounder features juicy tomato,Quarter Pounder
+ fresh mozzarella,Quarter Pounder
+" and basil on a brioche bun
+Fiesta Quarter Pounder",Quarter Pounder
+ A fiesta in your mouth with spicy salsa,Quarter Pounder
+ crunchy tortilla chips,Quarter Pounder
+" and melted pepper jack cheese on the Quarter Pounder
+Truffle Quarter Pounder",Quarter Pounder
+" Elevate your Quarter Pounder with the rich and earthy flavors of truffle
+Bruschetta Quarter Pounder",Quarter Pounder
+ Classic Italian bruschetta toppings - fresh tomato,Quarter Pounder
+ basil,Quarter Pounder
+" and garlic - on the Quarter Pounder
+Spicy Sriracha Quarter Pounder",Quarter Pounder
+" Get a kick of heat with spicy sriracha sauce on the Quarter Pounder
+Mediterranean Veggie Quarter Pounder",Quarter Pounder
+ A veggie lover's dream with roasted red peppers,Quarter Pounder
+ Kalamata olives,Quarter Pounder
+ feta cheese,Quarter Pounder
+" and a flavorful veggie patty on the Quarter Pounder
+Bacon Onion Lover's Quarter Pounder",Quarter Pounder
+" Crispy bacon and piled-high crispy onions make this Quarter Pounder a flavor explosion for onion lovers
+Philly Cheesesteak Quarter Pounder",Quarter Pounder
+ Inspired by the iconic Philly sandwich,Quarter Pounder
+ this Quarter Pounder features thinly sliced steak,Quarter Pounder
+ saut�ed peppers,Quarter Pounder
+ onions,Quarter Pounder
+" and melted cheese
+Honey BBQ Quarter Pounder",Quarter Pounder
+" Tangy honey BBQ sauce takes this Quarter Pounder to new heights of deliciousness
+Spinach Feta Quarter Pounder",Quarter Pounder
+" Fresh spinach and creamy feta cheese lend a Mediterranean twist to the Quarter Pounder
+Smoky Bacon Quarter Pounder",Quarter Pounder
+" Crispy bacon infused with smoky flavor adds a delicious twist to the Quarter Pounder
+Hawaiian BBQ Quarter Pounder",Quarter Pounder
+ The flavors of Hawaii come alive with tangy teriyaki sauce,Quarter Pounder
+ juicy pineapple,Quarter Pounder
+" and crispy bacon on the Quarter Pounder
+Ghost Pepper Quarter Pounder",Quarter Pounder
+ For those who dare,Quarter Pounder
+" this Quarter Pounder is topped with fiery ghost pepper sauce
+BLT Deluxe Quarter Pounder",Quarter Pounder
+ Crispy bacon,Quarter Pounder
+ lettuce,Quarter Pounder
+ tomato,Quarter Pounder
+ onion,Quarter Pounder
+" and mayo - the classic BLT toppings - on the Quarter Pounder in deluxe style
+Sun-Dried Tomato Pesto Quarter Pounder",Quarter Pounder
+" A burst of flavor with sun-dried tomato pesto on the Quarter Pounder
+Tex-Mex Quarter Pounder",Quarter Pounder
+ A taste of Mexico with spicy salsa,Quarter Pounder
+ creamy guacamole,Quarter Pounder
+" and melted pepper jack cheese on the Quarter Pounder
+Chipotle Bacon Quarter Pounder",Quarter Pounder
+" Smoky chipotle sauce and crispy bacon take the Quarter Pounder to the next level
+Southwest Deluxe Quarter Pounder",Quarter Pounder
+ Smoky chipotle sauce,Quarter Pounder
+ pepper jack cheese,Quarter Pounder
+ lettuce,Quarter Pounder
+ tomato,Quarter Pounder
+ onion,Quarter Pounder
+ and mayo on the Quarter Pounder in deluxe style,Quarter Pounder
+" Chicken McNuggets Happy Meal
+2",Chicken McNuggets
+" Chicken McNuggets with BBQ sauce
+3",Chicken McNuggets
+" Chicken McNuggets with Sweet and Sour sauce
+4",Chicken McNuggets
+" Chicken McNuggets with Spicy Buffalo sauce
+5",Chicken McNuggets
+" Chicken McNuggets with Honey Mustard sauce
+6",Chicken McNuggets
+" Chicken McNuggets with Tangy Ranch sauce
+7",Chicken McNuggets
+" Chicken McNuggets with Sriracha sauce
+8",Chicken McNuggets
+" Chicken McNuggets with Chipotle BBQ sauce
+9",Chicken McNuggets
+" Chicken McNuggets with Teriyaki sauce
+10",Chicken McNuggets
+" Chicken McNuggets with Garlic Parmesan sauce
+11",Chicken McNuggets
+" Chicken McNuggets with Cajun sauce
+12",Chicken McNuggets
+" Chicken McNuggets with Curry sauce
+13",Chicken McNuggets
+" Chicken McNuggets with Wasabi sauce
+14",Chicken McNuggets
+" Chicken McNuggets with Tzatziki sauce
+15",Chicken McNuggets
+" Chicken McNuggets with Pesto sauce
+16",Chicken McNuggets
+" Chicken McNuggets with Ginger Soy sauce
+17",Chicken McNuggets
+" Chicken McNuggets with Mango Curry sauce
+18",Chicken McNuggets
+" Chicken McNuggets with Thai Chili sauce
+19",Chicken McNuggets
+" Chicken McNuggets with Citrus Herb sauce
+20",Chicken McNuggets
+" Chicken McNuggets with Dijon Mustard sauce
+21",Chicken McNuggets
+" Chicken McNuggets with Creamy Garlic sauce
+22",Chicken McNuggets
+" Chicken McNuggets on a bed of Lettuce
+23",Chicken McNuggets
+" Chicken McNuggets in a Whole Wheat Wrap
+24",Chicken McNuggets
+" Chicken McNuggets served with Mini Fries
+25",Chicken McNuggets
+" Chicken McNuggets with a side of Apple Slices
+26",Chicken McNuggets
+" Chicken McNuggets topped with Cheese
+27",Chicken McNuggets
+" Chicken McNuggets in a Crunchy Taco Shell
+28",Chicken McNuggets
+" Chicken McNuggets with Melted Cheddar on top
+29",Chicken McNuggets
+" Chicken McNuggets on a Sesame Seed Bun
+30",Chicken McNuggets
+" Chicken McNuggets on a Pretzel Bun
+31",Chicken McNuggets
+" Chicken McNuggets in a Whole Grain Bun
+32",Chicken McNuggets
+" Chicken McNuggets stuffed in a Pita Pocket
+33",Chicken McNuggets
+" Chicken McNuggets with Lettuce and Tomato
+34",Chicken McNuggets
+" Chicken McNuggets with Grilled Onions
+35",Chicken McNuggets
+" Chicken McNuggets with Pickles and Mayo
+36",Chicken McNuggets
+" Chicken McNuggets with Bacon and Avocado
+37",Chicken McNuggets
+" Chicken McNuggets with Spicy Jalapenos
+38",Chicken McNuggets
+" Chicken McNuggets with Caramelized Onions
+39",Chicken McNuggets
+" Chicken McNuggets with Sun-Dried Tomatoes
+40",Chicken McNuggets
+" Chicken McNuggets with Roasted Red Peppers
+41",Chicken McNuggets
+" Chicken McNuggets with Sauteed Mushrooms
+42",Chicken McNuggets
+" Chicken McNuggets with Crispy Onion Rings
+43",Chicken McNuggets
+" Chicken McNuggets with Guacamole and Salsa
+44",Chicken McNuggets
+" Chicken McNuggets with Smoky BBQ Sauce
+45",Chicken McNuggets
+" Chicken McNuggets with Tangy Mustard Sauce
+46",Chicken McNuggets
+" Chicken McNuggets with Creamy Cheese Sauce
+47",Chicken McNuggets
+" Chicken McNuggets with Spicy Ketchup
+48",Chicken McNuggets
+" Chicken McNuggets with Zesty Chipotle Sauce
+49",Chicken McNuggets
+" Chicken McNuggets with Sweet Chili Sauce
+50",Chicken McNuggets
+" Chicken McNuggets with Honey Barbecue Sauce
+51",Chicken McNuggets
+" Crispy Nuggets Meal
+52",Chicken McNuggets
+" Savory Nuggets with Dipping Sauce
+53",Chicken McNuggets
+" Flavorful Nuggets with a side
+54",Chicken McNuggets
+" Golden Bites with Tangy Dressing
+55",Chicken McNuggets
+" Crunchy Bits served with a tasty dip
+56",Chicken McNuggets
+" Irresistible Nuggets with Flavorful Sauce
+57",Chicken McNuggets
+" Tender Chunks with a Delicious Dip
+58",Chicken McNuggets
+" Tasty Bites with a side of Fries
+59",Chicken McNuggets
+" Mouthwatering Nuggets and a Dipping Sauce
+60",Chicken McNuggets
+" Crispy Chicken Chunks with a Condiment
+61",Chicken McNuggets
+" Lightly Breaded Nuggets with a Tasty Topping
+62",Chicken McNuggets
+" Delectable Nuggets accompanied by a Sauce
+63",Chicken McNuggets
+" Irresistible Chicken Pieces with a Flavored Dip
+64",Chicken McNuggets
+" Finger-licking Nuggets with a Side Dish
+65",Chicken McNuggets
+" Delicious Bites complemented by a Savory Sauce
+66",Chicken McNuggets
+" Crispy Chunks served with a Flavorful Dressing
+67",Chicken McNuggets
+" Scrumptious Nuggets combined with a Dip
+68",Chicken McNuggets
+" Lip-smacking Chicken Balls with a Dipping Sauce
+69",Chicken McNuggets
+" Yummy Nuggets accompanied by a Tasty Condiment
+70",Chicken McNuggets
+" Savory Bites with a side of Fries
+71",Chicken McNuggets
+" Tantalizing Chicken Pieces and a Delicious Dip
+72",Chicken McNuggets
+" Flavorful Chunks with a Mouthwatering Topping
+73",Chicken McNuggets
+" Satisfying Nuggets accompanied by a Ruby Sauce
+74",Chicken McNuggets
+" Tasty Chicken Bites with a Flavored Dressing
+75",Chicken McNuggets
+" Irresistible Nuggets paired with a Tempting Sauce
+76",Chicken McNuggets
+" Golden Nuggets with a Satisfying Side Dish
+77",Chicken McNuggets
+" Crunchy Chunks complemented by a Savory Dip
+78",Chicken McNuggets
+" Delectable Chicken Balls served with a Lip-smacking Dip
+79",Chicken McNuggets
+" Mouthwatering Bites accompanied by a Delicious Condiment
+80",Chicken McNuggets
+" Crispy Nuggets with a Tasty Side Order
+81",Chicken McNuggets
+" Delicious Pieces combined with a Scrumptious Sauce
+82",Chicken McNuggets
+" Irresistible Chunks enhanced by a Flavorful Topping
+83",Chicken McNuggets
+" Finger-licking Nuggets with a Satisfying Dip
+84",Chicken McNuggets
+" Tasty Chicken Chunks complemented by a Yummy Sauce
+85",Chicken McNuggets
+" Savory Bites served with a Tempting Fries
+86",Chicken McNuggets
+" Tantalizing Nuggets and a Mouthwatering Dip
+87",Chicken McNuggets
+" Flavorful Chunks with a Lip-smacking Dressing
+88",Chicken McNuggets
+" Satisfying Balls accompanied by a Delicious Sauce
+89",Chicken McNuggets
+" Tasty Nuggets with a Flavored Condiment
+90",Chicken McNuggets
+" Irresistible Bites and a Ruby Dip
+91",Chicken McNuggets
+" Golden Chicken Pieces with a Tempting Topping
+92",Chicken McNuggets
+" Crunchy Nuggets paired with a Scrumptious Sauce
+93",Chicken McNuggets
+" Delectable Chunks and a Delicious Side Dish
+94",Chicken McNuggets
+" Mouthwatering Balls complemented by a Savory Dip
+95",Chicken McNuggets
+" Crispy Bites with a Lip-smacking Dip
+96",Chicken McNuggets
+" Delicious Nuggets served with a Yummy Condiment
+97",Chicken McNuggets
+" Irresistible Pieces accompanied by a Tasty Sauce
+98",Chicken McNuggets
+" Tasty Chunks with a Flavorful Dressing
+99",Chicken McNuggets
+" Savory Chicken Bites enhanced by a Satisfying Dip
+100",Chicken McNuggets
+ Finger-licking Nuggets with a Tempting Sauce,Chicken McNuggets
