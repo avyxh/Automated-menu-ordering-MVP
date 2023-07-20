@@ -1,501 +1,501 @@
 descriptor,item
 " no sugar
-2. Iced Coffee with cream and sugar
-3. Large Iced Coffee",Iced Coffee
+. Iced Coffee with cream and sugar
+. Large Iced Coffee",Iced Coffee
 " extra ice
-4. Iced Coffee",Iced Coffee
+. Iced Coffee",Iced Coffee
 " caramel flavor
-5. Iced Coffee with vanilla syrup
-6. Iced Coffee",Iced Coffee
+. Iced Coffee with vanilla syrup
+. Iced Coffee",Iced Coffee
 " light cream
-7. Small Iced Coffee",Iced Coffee
+. Small Iced Coffee",Iced Coffee
 " no cream
-8. Iced Coffee",Iced Coffee
+. Iced Coffee",Iced Coffee
 " mocha flavor
-9. Iced Coffee with whipped cream
-10. Iced Coffee",Iced Coffee
+. Iced Coffee with whipped cream
+. Iced Coffee",Iced Coffee
 " decaf
-11. Iced Coffee with hazelnut syrup
-12. Iced Coffee",Iced Coffee
+. Iced Coffee with hazelnut syrup
+. Iced Coffee",Iced Coffee
 " soy milk
-13. Iced Coffee",Iced Coffee
+. Iced Coffee",Iced Coffee
 " flavored with French vanilla
-14. Iced Coffee",Iced Coffee
+. Iced Coffee",Iced Coffee
 " low-fat milk
-15. Iced Coffee with chocolate syrup
-16. Iced Coffee",Iced Coffee
+. Iced Coffee with chocolate syrup
+. Iced Coffee",Iced Coffee
 " double shot of espresso
-17. Iced Coffee with almond milk
-18. Iced Coffee",Iced Coffee
+. Iced Coffee with almond milk
+. Iced Coffee",Iced Coffee
 " extra sweet
-19. Iced Coffee with cinnamon flavor
-20. Iced Coffee",Iced Coffee
+. Iced Coffee with cinnamon flavor
+. Iced Coffee",Iced Coffee
 " lactose-free milk
-21. Iced Coffee with mint syrup
-22. Iced Coffee",Iced Coffee
+. Iced Coffee with mint syrup
+. Iced Coffee",Iced Coffee
 " extra strong
-23. Iced Coffee with coconut flavor
-24. Iced Coffee",Iced Coffee
+. Iced Coffee with coconut flavor
+. Iced Coffee",Iced Coffee
 " half and half
-25. Iced Coffee with caramel and whipped cream
-26. Iced Coffee",Iced Coffee
+. Iced Coffee with caramel and whipped cream
+. Iced Coffee",Iced Coffee
 " iced mocha
-27. Iced Coffee",Iced Coffee
+. Iced Coffee",Iced Coffee
 " black
-28. Iced Coffee with raspberry syrup
-29. Iced Coffee",Iced Coffee
+. Iced Coffee with raspberry syrup
+. Iced Coffee",Iced Coffee
 " light on ice
-30. Iced Coffee with pumpkin spice
-31. Iced Coffee",Iced Coffee
+. Iced Coffee with pumpkin spice
+. Iced Coffee",Iced Coffee
 " non-dairy creamer
-32. Iced Coffee",Iced Coffee
+. Iced Coffee",Iced Coffee
 " creamy and smooth
-33. Iced Coffee with toffee nut syrup
-34. Iced Coffee",Iced Coffee
+. Iced Coffee with toffee nut syrup
+. Iced Coffee",Iced Coffee
 " no milk
-35. Iced Coffee with macadamia nut flavor
-36. Iced Coffee",Iced Coffee
+. Iced Coffee with macadamia nut flavor
+. Iced Coffee",Iced Coffee
 " full-bodied
-37. Iced Coffee with Irish cream syrup
-38. Iced Coffee",Iced Coffee
+. Iced Coffee with Irish cream syrup
+. Iced Coffee",Iced Coffee
 " sugar-free
-39. Iced Coffee with classic syrup
-40. Iced Coffee",Iced Coffee
+. Iced Coffee with classic syrup
+. Iced Coffee",Iced Coffee
 " bold flavor
-41. Iced Coffee with butter pecan syrup
-42. Iced Coffee",Iced Coffee
+. Iced Coffee with butter pecan syrup
+. Iced Coffee",Iced Coffee
 " made with whole milk
-43. Iced Coffee with strawberry syrup
-44. Iced Coffee",Iced Coffee
+. Iced Coffee with strawberry syrup
+. Iced Coffee",Iced Coffee
 " silky texture
-45. Iced Coffee with gingerbread flavor
-46. Iced Coffee",Iced Coffee
+. Iced Coffee with gingerbread flavor
+. Iced Coffee",Iced Coffee
 " extra creamy
-47. Iced Coffee with pistachio syrup
-48. Iced Coffee",Iced Coffee
+. Iced Coffee with pistachio syrup
+. Iced Coffee",Iced Coffee
 " indulgent taste
-49. Iced Coffee with blueberry syrup
-50. Iced Coffee",Iced Coffee
+. Iced Coffee with blueberry syrup
+. Iced Coffee",Iced Coffee
 " smooth finish
 
 Alternative Coffee Orders:
-51. Cool Brew",Iced Coffee
+. Cool Brew",Iced Coffee
 " no heat added
-52. Chill Caf�",Iced Coffee
+. Chill Caf�",Iced Coffee
 " creamy refreshment
-53. Frosty Java",Iced Coffee
+. Frosty Java",Iced Coffee
 " ice-blended goodness
-54. Icy Java",Iced Coffee
+. Icy Java",Iced Coffee
 " chilled delight
-55. Chilled Coffee",Iced Coffee
+. Chilled Coffee",Iced Coffee
 " extra coolness
-56. Cool Caf�",Iced Coffee
+. Cool Caf�",Iced Coffee
 " refreshing sip
-57. Crisp Brew",Iced Coffee
+. Crisp Brew",Iced Coffee
 " cold and delicious
-58. Frozen Mocha",Iced Coffee
+. Frozen Mocha",Iced Coffee
 " frosty indulgence
-59. Chilled Java",Iced Coffee
+. Chilled Java",Iced Coffee
 " iced perfection
-60. Invigorating Cold Brew",Iced Coffee
+. Invigorating Cold Brew",Iced Coffee
 " icy pick-me-up
-61. Refreshing Chill Coffee",Iced Coffee
+. Refreshing Chill Coffee",Iced Coffee
 " cool treat
-62. Frosty Latte",Iced Coffee
+. Frosty Latte",Iced Coffee
 " blended cold goodness
-63. Cool Espresso",Iced Coffee
+. Cool Espresso",Iced Coffee
 " chilly energy boost
-64. Iced Milk Coffee",Iced Coffee
+. Iced Milk Coffee",Iced Coffee
 " creamy and cold
-65. Nippy Brew",Iced Coffee
+. Nippy Brew",Iced Coffee
 " refreshingly cold
-66. Frosty Caramel Java",Iced Coffee
+. Frosty Caramel Java",Iced Coffee
 " chilled delight
-67. Chilled Cup of Joe",Iced Coffee
+. Chilled Cup of Joe",Iced Coffee
 " cold and satisfying
-68. Cold Mocha Frappe",Iced Coffee
+. Cold Mocha Frappe",Iced Coffee
 " icy chocolate delight
-69. Chill Latte",Iced Coffee
+. Chill Latte",Iced Coffee
 " cool and creamy
-70. Frozen Coffee",Iced Coffee
+. Frozen Coffee",Iced Coffee
 " frosty awakening
-71. Chilled Pick-me-up",Iced Coffee
+. Chilled Pick-me-up",Iced Coffee
 " cool energy boost
-72. Cool Hazelnut Java",Iced Coffee
+. Cool Hazelnut Java",Iced Coffee
 " refreshing treat
-73. Arctic Cappuccino",Iced Coffee
+. Arctic Cappuccino",Iced Coffee
 " icy and frothy
-74. Chilled Espresso",Iced Coffee
+. Chilled Espresso",Iced Coffee
 " cold and invigorating
-75. Frigid Vanilla Brew",Iced Coffee
+. Frigid Vanilla Brew",Iced Coffee
 " freezing sweet delight
-76. Cool Macchiato",Iced Coffee
+. Cool Macchiato",Iced Coffee
 " chilled espresso treasure
-77. Shivering Caf� Mocha",Iced Coffee
+. Shivering Caf� Mocha",Iced Coffee
 " icy chocolate perfection
-78. Refreshing Icy Cup",Iced Coffee
+. Refreshing Icy Cup",Iced Coffee
 " cold and revitalizing
-79. Slushy Coffee",Iced Coffee
+. Slushy Coffee",Iced Coffee
 " frozen delight
-80. Chilled Almond Latte",Iced Coffee
+. Chilled Almond Latte",Iced Coffee
 " cool nutty goodness
-81. Gelid Brew",Iced Coffee
+. Gelid Brew",Iced Coffee
 " frosty refreshment
-82. Frozen Cup of Joe",Iced Coffee
+. Frozen Cup of Joe",Iced Coffee
 " icy satisfaction
-83. Frosty Caramel Macchiato",Iced Coffee
+. Frosty Caramel Macchiato",Iced Coffee
 " chilled caramel delight
-84. Chilled Milk Coffee",Iced Coffee
+. Chilled Milk Coffee",Iced Coffee
 " cold and creamy
-85. Frigid Iced Coffee",Iced Coffee
+. Frigid Iced Coffee",Iced Coffee
 " freezing pick-me-up
-86. Cool Vanilla Frappe",Iced Coffee
+. Cool Vanilla Frappe",Iced Coffee
 " refreshing creamy treat
-87. Arctic Chai Latte",Iced Coffee
+. Arctic Chai Latte",Iced Coffee
 " icy and spiced
-88. Chilled Espressoccino",Iced Coffee
+. Chilled Espressoccino",Iced Coffee
 " cold espresso bliss
-89. Frozen Hazelnut Mocha",Iced Coffee
+. Frozen Hazelnut Mocha",Iced Coffee
 " frosty nutty indulgence
-90. Chill Coffee Delight",Iced Coffee
+. Chill Coffee Delight",Iced Coffee
 " cool and delightful
-91. Cold Chocolate Brew",Iced Coffee
+. Cold Chocolate Brew",Iced Coffee
 " icy chocolate pleasure
-92. Cool Toffee Macchiato",Iced Coffee
+. Cool Toffee Macchiato",Iced Coffee
 " refreshing sweet delight
-93. Iced Java Shake",Iced Coffee
+. Iced Java Shake",Iced Coffee
 " frosty energy boost
-94. Chilled Coconut Latte",Iced Coffee
+. Chilled Coconut Latte",Iced Coffee
 " cool tropical sip
-95. Gelid Cup o� Joe",Iced Coffee
+. Gelid Cup o� Joe",Iced Coffee
 " freezing wake-up call
-96. Shivering Irish Cream Brew",Iced Coffee
+. Shivering Irish Cream Brew",Iced Coffee
 " icy creamy goodness
-97. Refreshing Gingerbread Coffee",Iced Coffee
+. Refreshing Gingerbread Coffee",Iced Coffee
 " cool and spicy
-98. Slushy Almond Milk Latte",Iced Coffee
+. Slushy Almond Milk Latte",Iced Coffee
 " frozen nutty bliss
-99. Cool Espresso Splash",Iced Coffee
+. Cool Espresso Splash",Iced Coffee
 " chilled invigorating sip
-100. Icy Cinnamon Mocha",Iced Coffee
+. Icy Cinnamon Mocha",Iced Coffee
  cold and flavorful,Iced Coffee
 "Quarter Pounder with Cheese Classic
-Order 2",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Deluxe with Bacon
-Order 3",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder BLT combo
-Order 4",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder BBQ Ranch
-Order 5",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Mushroom Swiss
-Order 6",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Jalapeno Explosion
-Order 7",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Classic with Pickles
-Order 8",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Bacon Lover's Combo
-Order 9",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder BBQ Bacon
-Order 10",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Hawaiian Style
-Order 11",Quarter Pounder
+Order ",Quarter Pounder
 "Deluxe Bacon Lover's Combo
-Order 12",Quarter Pounder
+Order ",Quarter Pounder
 "BLT combo with Cheese
-Order 13",Quarter Pounder
+Order ",Quarter Pounder
 "Jalapeno Explosion BBQ Ranch
-Order 14",Quarter Pounder
+Order ",Quarter Pounder
 "Mushroom Swiss BBQ Bacon
-Order 15",Quarter Pounder
+Order ",Quarter Pounder
 "Hawaiian Style with Pickles
-Order 16",Quarter Pounder
+Order ",Quarter Pounder
 "Bacon Lover's Deluxe
-Order 17",Quarter Pounder
+Order ",Quarter Pounder
 "BLT combo Swiss Style
-Order 18",Quarter Pounder
+Order ",Quarter Pounder
 "Jalapeno Explosion Hawaiian Style
-Order 19",Quarter Pounder
+Order ",Quarter Pounder
 "Mushroom Swiss with Pickles
-Order 20",Quarter Pounder
+Order ",Quarter Pounder
 "BBQ Ranch Bacon Lover's Combo
-Order 21",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder with Bacon and Cheese
-Order 22",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Deluxe
-Order 23",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder BLT
-Order 24",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder BBQ
-Order 25",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Mushroom Swiss Deluxe
-Order 26",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Jalapeno Explosion BLT
-Order 27",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Classic with Pickles and Cheese
-Order 28",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Bacon Lover's Combo Deluxe
-Order 29",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder BBQ Bacon BLT
-Order 30",Quarter Pounder
+Order ",Quarter Pounder
 "Quarter Pounder Hawaiian Style BBQ
-Order 31",Quarter Pounder
+Order ",Quarter Pounder
 "Deluxe Bacon Lover's Combo with Pickles
-Order 32",Quarter Pounder
+Order ",Quarter Pounder
 "BLT combo with Cheese and Bacon
-Order 33",Quarter Pounder
+Order ",Quarter Pounder
 "Jalapeno Explosion BBQ Ranch Deluxe
-Order 34",Quarter Pounder
+Order ",Quarter Pounder
 "Mushroom Swiss BBQ Bacon BLT
-Order 35",Quarter Pounder
+Order ",Quarter Pounder
 "Hawaiian Style with Pickles and Cheese
-Order 36",Quarter Pounder
+Order ",Quarter Pounder
 "Bacon Lover's Deluxe with Bacon
-Order 37",Quarter Pounder
+Order ",Quarter Pounder
 "BLT combo Swiss Style with Pickles
-Order 38",Quarter Pounder
+Order ",Quarter Pounder
 "Jalapeno Explosion Hawaiian Style BBQ
-Order 39",Quarter Pounder
+Order ",Quarter Pounder
 "Mushroom Swiss with Pickles and Bacon
-Order 40",Quarter Pounder
+Order ",Quarter Pounder
 "BBQ Ranch Bacon Lover's Combo BLT
-Order 41",Quarter Pounder
+Order ",Quarter Pounder
 "Beefy Cheese Burger
-Order 42",Quarter Pounder
+Order ",Quarter Pounder
 "The Deluxe Bacon Burger
-Order 43",Quarter Pounder
+Order ",Quarter Pounder
 "Bacon Lettuce Tomato Lover's Combo
-Order 44",Quarter Pounder
+Order ",Quarter Pounder
 "Classic Beefy BBQ Burger
-Order 45",Quarter Pounder
+Order ",Quarter Pounder
 "Mushroom Swiss Beefy Burger
-Order 46",Quarter Pounder
+Order ",Quarter Pounder
 "Spicy Jalapeno Explosion Burger
-Order 47",Quarter Pounder
+Order ",Quarter Pounder
 "The Classic Pickles Burger
-Order 48",Quarter Pounder
+Order ",Quarter Pounder
 "Bacon Lover's Beefy Combo
-Order 49",Quarter Pounder
+Order ",Quarter Pounder
 "BBQ Bacon Burger
-Order 50",Quarter Pounder
+Order ",Quarter Pounder
 "Tropical Style Beefy Burger
-Order 51",Quarter Pounder
+Order ",Quarter Pounder
 "The Deluxe Bacon Lettuce Tomato Burger
-Order 52",Quarter Pounder
+Order ",Quarter Pounder
 "BLT Lover's Combo
-Order 53",Quarter Pounder
+Order ",Quarter Pounder
 "Jalapeno Explosion Ranch Burger
-Order 54",Quarter Pounder
+Order ",Quarter Pounder
 "Swiss Mushroom Beefy Burger
-Order 55",Quarter Pounder
+Order ",Quarter Pounder
 "Beefy Hawaiian Style
-Order 56",Quarter Pounder
+Order ",Quarter Pounder
 "Bacon Lover's Combo Deluxe
-Order 57",Quarter Pounder
+Order ",Quarter Pounder
 "BLT Swiss Style
-Order 58",Quarter Pounder
+Order ",Quarter Pounder
 "Jalapeno Explosion Tropical Style
-Order 59",Quarter Pounder
+Order ",Quarter Pounder
 "Mushroom Bacon Beefy Burger
-Order 60",Quarter Pounder
+Order ",Quarter Pounder
 BBQ Ranch Bacon Lover's Combo BLT,Quarter Pounder
 " Chicken McNuggets Happy Meal with fries and a soda
-2",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Chicken McNuggets with ranch dipping sauce
-3",Chicken McNuggets
+",Chicken McNuggets
  Chicken McNuggets Deluxe with lettuce,Chicken McNuggets
  tomato,Chicken McNuggets
 " and mayonnaise
-4",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Sweet and Sour Sauce
-5",Chicken McNuggets
+",Chicken McNuggets
 " BBQ Chicken McNuggets with a side of coleslaw
-6",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets Wrap with honey mustard dressing
-7",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets Salad with mixed greens and Italian dressing
-8",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Chipotle BBQ Sauce
-9",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Sriracha Mayo
-10",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Honey Mustard Sauce
-11",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Tangy Buffalo Sauce
-12",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken McNuggets with a side of steamed vegetables
-13",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Teriyaki Sauce
-14",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Spicy Mayo
-15",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Chili Lime Sauce
-16",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Garlic Parmesan Sauce
-17",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Creamy Garlic Sauce
-18",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Cajun Sauce
-19",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with Zesty Salsa
-20",Chicken McNuggets
+",Chicken McNuggets
 " Baked Chicken McNuggets with a side of quinoa and roasted vegetables
-21",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken McNuggets with a side of sweet chili sauce
-22",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with a side of guacamole
-23",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with a side of honey barbecue sauce
-24",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with a side of creamy ranch dressing
-25",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with a side of spicy ketchup
-26",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with a side of tangy honey mustard
-27",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with a side of smoky barbecue sauce
-28",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with a side of zesty hot mustard
-29",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with a side of savory soy sauce
-30",Chicken McNuggets
+",Chicken McNuggets
 " Chicken McNuggets with a side of fiery sriracha sauce
-31",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Chunks with a side of garlic parmesan sauce
-32",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Breaded Chicken Bites with a side of tangy buffalo sauce
-33",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Poppers with a side of honey mustard dipping sauce
-34",Chicken McNuggets
+",Chicken McNuggets
 " Tender Chicken Chunks with a side of creamy garlic sauce
-35",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Poultry Bites with a side of smoky barbecue dip
-36",Chicken McNuggets
+",Chicken McNuggets
 " Savory Chicken Bites with a side of zesty salsa
-37",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Tenders with a side of queso cheese dip
-38",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Chicken Chunks with a side of chipotle ranch
-39",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Popcorn with a side of tangy honey mustard
-40",Chicken McNuggets
+",Chicken McNuggets
 " Breaded Chicken Poppers with a side of sweet and sour sauce
-41",Chicken McNuggets
+",Chicken McNuggets
 " Baked Poultry Bites with a side of sriracha mayo
-42",Chicken McNuggets
+",Chicken McNuggets
 " Tender Chicken Chunks with a side of Cajun sauce
-43",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Breaded Chicken Bites with a side of creamy sriracha
-44",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Nuggets with a side of garlic parmesan aioli
-45",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Poppers with a side of tangy chili lime
-46",Chicken McNuggets
+",Chicken McNuggets
 " Savory Poultry Bites with a side of ranchero salsa
-47",Chicken McNuggets
+",Chicken McNuggets
 " Breaded Chicken Tenders with a side of fiery honey barbecue
-48",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Chicken Popcorn with a side of creamy spicy mayo
-49",Chicken McNuggets
+",Chicken McNuggets
 " Tender Chicken Chunks with a side of zesty teriyaki glaze
-50",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Bites with a side of smoky garlic parmesan dip
-51",Chicken McNuggets
+",Chicken McNuggets
 " Popcorn Chicken Delight with a side of tangy barbecue sauce
-52",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Breaded Chicken Snackers with a side of buffalo mayo dip
-53",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Poppers with a side of honey mustard vinaigrette
-54",Chicken McNuggets
+",Chicken McNuggets
 " Breaded Poultry Bites with a side of creamy garlic aioli
-55",Chicken McNuggets
+",Chicken McNuggets
 " Popcorn Chicken Pleasure with a side of zesty salsa verde
-56",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Tenders with a side of queso cheese blanco
-57",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Chicken Chunks with a side of tangy ranch dressing
-58",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Nuggets with a side of honey lime glaze
-59",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Poppers with a side of sweet chili aioli
-60",Chicken McNuggets
+",Chicken McNuggets
 " Savory Poultry Bites with a side of jalapeno ranch dip
-61",Chicken McNuggets
+",Chicken McNuggets
 " Popcorn Chicken Sensation with a side of smoky barbecue drizzle
-62",Chicken McNuggets
+",Chicken McNuggets
 " Tender Chicken Chunks with a side of tangy honey bourbon
-63",Chicken McNuggets
+",Chicken McNuggets
 " Breaded Chicken Snackers with a side of creamy sriracha dipping sauce
-64",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Chicken Poppers with a side of zesty cilantro lime
-65",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Bites with a side of garlic parmesan cream
-66",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Chunks with a side of tangy chili garlic
-67",Chicken McNuggets
+",Chicken McNuggets
 " Popcorn Chicken Delight with a side of ranchero queso
-68",Chicken McNuggets
+",Chicken McNuggets
 " Breaded Chicken Poppers with a side of fiery honey mustard
-69",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Chicken Tenders with a side of creamy spicy sriracha
-70",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Nuggets with a side of tangy ginger soy
-71",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Bites with a side of smoky mesquite dip
-72",Chicken McNuggets
+",Chicken McNuggets
 " Savory Chicken Chunks with a side of zesty habanero aioli
-73",Chicken McNuggets
+",Chicken McNuggets
 " Popcorn Chicken Pleasure with a side of tangy chipotle mayo
-74",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Breaded Chicken Bites with a side of garlic parmesan ranch
-75",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Poppers with a side of honey mustard dill
-76",Chicken McNuggets
+",Chicken McNuggets
 " Breaded Poultry Bites with a side of creamy garlic cilantro
-77",Chicken McNuggets
+",Chicken McNuggets
 " Popcorn Chicken Sensation with a side of smoky barbecue chipotle
-78",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Tenders with a side of tangy honey jalapeno
-79",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Chicken Chunks with a side of creamy buffalo ranch
-80",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Nuggets with a side of honey teriyaki glaze
-81",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Poppers with a side of tangy mango habanero
-82",Chicken McNuggets
+",Chicken McNuggets
 " Savory Poultry Bites with a side of jalapeno lime dip
-83",Chicken McNuggets
+",Chicken McNuggets
 " Popcorn Chicken Delight with a side of smoky garlic cilantro
-84",Chicken McNuggets
+",Chicken McNuggets
 " Tender Chicken Chunks with a side of tangy avocado cream
-85",Chicken McNuggets
+",Chicken McNuggets
 " Breaded Chicken Snackers with a side of fiery honey sriracha
-86",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Chicken Poppers with a side of zesty ranch chipotle
-87",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Bites with a side of tangy garlic cilantro
-88",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Nuggets with a side of honey lime jalapeno
-89",Chicken McNuggets
+",Chicken McNuggets
 " Popcorn Chicken Pleasure with a side of tangy teriyaki ginger
-90",Chicken McNuggets
+",Chicken McNuggets
 " Savory Poultry Bites with a side of ranchero cilantro lime
-91",Chicken McNuggets
+",Chicken McNuggets
 " Breaded Chicken Poppers with a side of smoky chipotle mayo
-92",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Chicken Tenders with a side of creamy spicy garlic
-93",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Bites with a side of tangy jalapeno cilantro
-94",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Chunks with a side of zesty habanero chipotle
-95",Chicken McNuggets
+",Chicken McNuggets
 " Popcorn Chicken Delight with a side of tangy garlic dill
-96",Chicken McNuggets
+",Chicken McNuggets
 " Breaded Chicken Poppers with a side of fiery honey habanero
-97",Chicken McNuggets
+",Chicken McNuggets
 " Spicy Chicken Poppers with a side of creamy buffalo chipotle
-98",Chicken McNuggets
+",Chicken McNuggets
 " Grilled Chicken Nuggets with a side of honey ginger sriracha
-99",Chicken McNuggets
+",Chicken McNuggets
 " Crispy Chicken Bites with a side of tangy lime avocado
-100",Chicken McNuggets
+",Chicken McNuggets
  Savory Chicken Chunks with a side of smoky garlic ginger,Chicken McNuggets
