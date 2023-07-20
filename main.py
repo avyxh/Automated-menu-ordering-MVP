@@ -15,7 +15,7 @@ from sklearn.metrics import classification_report, f1_score, accuracy_score, con
 from sklearn.naive_bayes import MultinomialNB
 
 absolute_path = os.path.dirname(__file__)
-relative_path = "test_data.csv"
+relative_path = "large_data.csv"
 full_path = os.path.join(absolute_path, relative_path)
 df = pd.read_csv(full_path)
 # print(df)
@@ -24,20 +24,19 @@ X_train, X_test, y_train, y_test = train_test_split(
     df['descriptor'], df['item'], shuffle=True, test_size=0.2, random_state=1)
 
 tfidf = TfidfVectorizer(sublinear_tf=True,
-                        min_df=5,
-                        norm='l2',
-                        ngram_range=(1, 2),
+                        min_df=25,
+                        max_df=125,
+                        norm='l1',
+                        ngram_range=(1, 1),
                         stop_words='english')
 
 X_train_counts = tfidf.fit_transform(X_train)
 X_test_counts = tfidf.transform(X_test)
 
+model = MultinomialNB()
+model.fit(X_train_counts, y_train)
 
-clf = MultinomialNB()
-clf.fit(X_train_counts, y_train)
-
-
-y_pred = clf.predict(X_test_counts)
+y_pred = model.predict(X_test_counts)
 acc = metrics.accuracy_score(y_test, y_pred)
 
 print(f"Accuracy: {acc*100}%")

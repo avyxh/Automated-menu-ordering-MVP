@@ -8,3 +8,6 @@ Explanation of tfidf:
 
 Improving test classification results:
 1. https://medium.datadriveninvestor.com/improve-the-text-classification-results-with-a-suitable-preprocessing-step-gridsearchcv-and-f19cb3e182a3
+
+Multinomial Naive Bayes Model:
+1. https://www.upgrad.com/blog/multinomial-naive-bayes-explained/ 

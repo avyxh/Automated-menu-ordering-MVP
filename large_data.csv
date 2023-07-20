@@ -1,0 +1,407 @@
+descriptor,item
+Big Mac Order,Big Mac
+Big Mac with Extra Cheese,Big Mac
+Burger Special with Extra Cheese,Big Mac
+Big Mac with Bacon,Big Mac
+Burger Delight with Bacon,Big Mac
+Big Mac with No Lettuce,Big Mac
+Burger Feast with No Lettuce,Big Mac
+Big Mac with Extra Pickles,Big Mac
+Burger Special with Extra Pickles,Big Mac
+Big Mac with No Onions,Big Mac
+Burger Feast with No Onions,Big Mac
+Big Mac with Extra Sauce,Big Mac
+Burger Special with Extra Sauce,Big Mac
+Big Mac with No Cheese,Big Mac
+Burger Feast with No Cheese,Big Mac
+Big Mac with Extra Lettuce,Big Mac
+Burger Special with Extra Lettuce,Big Mac
+Big Mac with No Pickles,Big Mac
+Burger Feast with No Pickles,Big Mac
+Big Mac with Extra Onions,Big Mac
+Burger Special with Extra Onions,Big Mac
+Big Mac with No Sauce,Big Mac
+Burger Feast with No Sauce,Big Mac
+Big Mac with Extra Cheese and Bacon,Big Mac
+Burger Special with Extra Cheese and Bacon,Big Mac
+Big Mac with Extra Cheese and Pickles,Big Mac
+Burger Special with Extra Cheese and Pickles,Big Mac
+Big Mac with Extra Cheese and Onions,Big Mac
+Burger Special with Extra Cheese and Onions,Big Mac
+Big Mac with Extra Cheese and Lettuce,Big Mac
+Burger Special with Extra Cheese and Lettuce,Big Mac
+Big Mac with Extra Cheese and Sauce,Big Mac
+Burger Special with Extra Cheese and Sauce,Big Mac
+Big Mac with Extra Bacon and Pickles,Big Mac
+Burger Delight with Extra Bacon and Pickles,Big Mac
+Big Mac with Extra Bacon and Onions,Big Mac
+Burger Delight with Extra Bacon and Onions,Big Mac
+Big Mac with Extra Bacon and Lettuce,Big Mac
+Burger Delight with Extra Bacon and Lettuce,Big Mac
+Big Mac with Extra Bacon and Sauce,Big Mac
+Burger Delight with Extra Bacon and Sauce,Big Mac
+Big Mac with Extra Pickles and Onions,Big Mac
+Burger Feast with Extra Pickles and Onions,Big Mac
+Big Mac with Extra Pickles and Lettuce,Big Mac
+Burger Feast with Extra Pickles and Lettuce,Big Mac
+Big Mac with Extra Pickles and Sauce,Big Mac
+Burger Feast with Extra Pickles and Sauce,Big Mac
+Big Mac with Extra Onions and Lettuce,Big Mac
+Burger Feast with Extra Onions and Lettuce,Big Mac
+Big Mac with Extra Onions and Sauce,Big Mac
+Burger Feast with Extra Onions and Sauce,Big Mac
+Big Mac with Extra Lettuce and Sauce,Big Mac
+Burger Feast with Extra Lettuce and Sauce,Big Mac
+Big Mac with No Cheese and Bacon,Big Mac
+Burger Feast with No Cheese and Bacon,Big Mac
+Big Mac with No Cheese and Pickles,Big Mac
+Burger Feast with No Cheese and Pickles,Big Mac
+Big Mac with No Cheese and Onions,Big Mac
+Burger Feast with No Cheese and Onions,Big Mac
+Big Mac with No Cheese and Lettuce,Big Mac
+Burger Feast with No Cheese and Lettuce,Big Mac
+Big Mac with No Cheese and Sauce,Big Mac
+Burger Feast with No Cheese and Sauce,Big Mac
+Big Mac with No Bacon and Pickles,Big Mac
+Burger Delight with No Bacon and Pickles,Big Mac
+Big Mac with No Bacon and Onions,Big Mac
+Burger Delight with No Bacon and Onions,Big Mac
+Big Mac with No Bacon and Lettuce,Big Mac
+Burger Delight with No Bacon and Lettuce,Big Mac
+Big Mac with No Bacon and Sauce,Big Mac
+Burger Delight with No Bacon and Sauce,Big Mac
+Big Mac with No Pickles and Onions,Big Mac
+Burger Feast with No Pickles and Onions,Big Mac
+Big Mac with No Pickles and Lettuce,Big Mac
+Burger Feast with No Pickles and Lettuce,Big Mac
+Big Mac with No Pickles and Sauce,Big Mac
+Burger Feast with No Pickles and Sauce,Big Mac
+Big Mac with No Onions and Lettuce,Big Mac
+Burger Feast with No Onions and Lettuce,Big Mac
+Big Mac with No Onions and Sauce,Big Mac
+Burger Feast with No Onions and Sauce,Big Mac
+Big Mac with No Lettuce and Sauce,Big Mac
+Burger Feast with No Lettuce and Sauce,Big Mac
+Big Mac Special,Big Mac
+Burger Extravaganza,Big Mac
+Big Mac Deluxe,Big Mac
+Burger Supreme,Big Mac
+Big Mac Ultimate,Big Mac
+Burger Masterpiece,Big Mac
+Big Mac Classic,Big Mac
+Burger Sensation,Big Mac
+Big Mac Royale,Big Mac
+Burger Elegance,Big Mac
+Big Mac Special with Extra Cheese,Big Mac
+Burger Extravaganza with Extra Cheese,Big Mac
+Big Mac Deluxe with Bacon,Big Mac
+Burger Supreme with Bacon,Big Mac
+Big Mac Ultimate with No Lettuce,Big Mac
+Burger Masterpiece with No Lettuce,Big Mac
+Big Mac Classic with Extra Pickles,Big Mac
+Burger Sensation with Extra Pickles,Big Mac
+Big Mac Royale with No Onions,Big Mac
+Burger Elegance with No Onions,Big Mac
+Big Mac Special with Extra Sauce,Big Mac
+Burger Extravaganza with Extra Sauce,Big Mac
+Big Mac Deluxe with No Cheese,Big Mac
+Burger Supreme with No Cheese,Big Mac
+Big Mac Ultimate with Extra Lettuce,Big Mac
+Burger Masterpiece with Extra Lettuce,Big Mac
+Big Mac Classic with No Pickles,Big Mac
+Burger Sensation with No Pickles,Big Mac
+Big Mac Royale with Extra Onions,Big Mac
+Burger Elegance with Extra Onions,Big Mac
+Big Mac Special with No Sauce,Big Mac
+Burger Extravaganza with No Sauce,Big Mac
+Big Mac Deluxe with Extra Cheese and Bacon,Big Mac
+Burger Supreme with Extra Cheese and Bacon,Big Mac
+Big Mac Ultimate with Extra Cheese and Pickles,Big Mac
+Burger Masterpiece with Extra Cheese and Pickles,Big Mac
+Big Mac Classic with Extra Cheese and Onions,Big Mac
+Burger Sensation with Extra Cheese and Onions,Big Mac
+Big Mac Royale with Extra Cheese and Lettuce,Big Mac
+Burger Elegance with Extra Cheese and Lettuce,Big Mac
+Big Mac Special with Extra Cheese and Sauce,Big Mac
+Burger Extravaganza with Extra Cheese and Sauce,Big Mac
+Big Mac Deluxe with Extra Bacon and Pickles,Big Mac
+Burger Supreme with Extra Bacon and Pickles,Big Mac
+Big Mac Ultimate with Extra Bacon and Onions,Big Mac
+Burger Masterpiece with Extra Bacon and Onions,Big Mac
+Big Mac Classic with Extra Bacon and Lettuce,Big Mac
+Burger Sensation with Extra Bacon and Lettuce,Big Mac
+Big Mac Royale with Extra Bacon and Sauce,Big Mac
+Burger Elegance with Extra Bacon and Sauce,Big Mac
+Big Mac Special with Extra Pickles and Onions,Big Mac
+Burger Extravaganza with Extra Pickles and Onions,Big Mac
+Big Mac Deluxe with Extra Pickles and Lettuce,Big Mac
+Burger Supreme with Extra Pickles and Lettuce,Big Mac
+Big Mac Ultimate with Extra Pickles and Sauce,Big Mac
+Burger Masterpiece with Extra Pickles and Sauce,Big Mac
+Big Mac Classic with Extra Onions and Lettuce,Big Mac
+Burger Sensation with Extra Onions and Lettuce,Big Mac
+Big Mac Royale with Extra Onions and Sauce,Big Mac
+Burger Elegance with Extra Onions and Sauce,Big Mac
+Big Mac Special with Extra Lettuce and Sauce,Big Mac
+Burger Extravaganza with Extra Lettuce and Sauce,Big Mac
+Burger Special,Big Mac
+Big Meal Delight,Big Mac
+Burger Delight,Big Mac
+Big Meal Sensation,Big Mac
+Burger Feast,Big Mac
+Big Meal Celebration,Big Mac
+Burger Celebration,Big Mac
+Big Meal Party,Big Mac
+Burger Sensation,Big Mac
+Big Meal Sensation,Big Mac
+Burger Masterpiece,Big Mac
+Big Meal Surprise,Big Mac
+Burger Surprise,Big Mac
+Big Meal Spectacle,Big Mac
+Burger Elegance,Big Mac
+Big Meal Elegance,Big Mac
+Burger Supreme,Big Mac
+Big Meal Supreme,Big Mac
+Burger Extravaganza,Big Mac
+Big Meal Extravaganza,Big Mac
+Burger Special with No Cheese,Big Mac
+Big Meal Delight with No Cheese,Big Mac
+Burger Delight with No Bacon,Big Mac
+Big Meal Sensation with No Bacon,Big Mac
+Burger Feast with Extra Pickles,Big Mac
+Big Meal Celebration with Extra Pickles,Big Mac
+Burger Celebration with No Onions,Big Mac
+Big Meal Party with No Onions,Big Mac
+Burger Sensation with Extra Sauce,Big Mac
+Big Meal Sensation with Extra Sauce,Big Mac
+Burger Masterpiece with No Pickles,Big Mac
+Big Meal Surprise with No Pickles,Big Mac
+Burger Surprise with Extra Onions,Big Mac
+Big Meal Spectacle with Extra Onions,Big Mac
+Burger Elegance with No Lettuce,Big Mac
+Big Meal Elegance with No Lettuce,Big Mac
+Burger Supreme with Extra Lettuce,Big Mac
+Big Meal Supreme with Extra Lettuce,Big Mac
+Burger Extravaganza with No Pickles,Big Mac
+Big Meal Extravaganza with No Pickles,Big Mac
+Burger Special with No Bacon and Cheese,Big Mac
+Big Meal Delight with No Bacon and Cheese,Big Mac
+Burger Delight with No Bacon and Pickles,Big Mac
+Big Meal Sensation with No Bacon and Pickles,Big Mac
+Burger Feast with Extra Pickles and Onions,Big Mac
+Big Meal Celebration with Extra Pickles and Onions,Big Mac
+Burger Celebration with No Onions and Lettuce,Big Mac
+Big Meal Party with No Onions and Lettuce,Big Mac
+Burger Sensation with Extra Sauce and Onions,Big Mac
+Big Meal Sensation with Extra Sauce and Onions,Big Mac
+Burger Masterpiece with No Pickles and Lettuce,Big Mac
+Big Meal Surprise with No Pickles and Lettuce,Big Mac
+Burger Surprise with Extra Onions and Sauce,Big Mac
+Big Meal Spectacle with Extra Onions and Sauce,Big Mac
+Burger Elegance with No Lettuce and Sauce,Big Mac
+Big Meal Elegance with No Lettuce and Sauce,Big Mac
+Burger Supreme with Extra Lettuce and Sauce,Big Mac
+Big Meal Supreme with Extra Lettuce and Sauce,Big Mac
+Burger Extravaganza with No Pickles or Cheese,Big Mac
+Big Meal Extravaganza with No Pickles or Cheese,Big Mac
+Iced Coffee,Iced Coffee
+Iced Coffee with caramel syrup whipped cream and chocolate drizzle,Iced Coffee
+Iced Coffee with vanilla syrup and milk,Iced Coffee
+Iced Coffee with hazelnut syrup and a splash of cream,Iced Coffee
+Iced Coffee with mocha syrup and a dollop of whipped cream,Iced Coffee
+Iced Coffee with caramel syrup and a sprinkle of cinnamon,Iced Coffee
+Iced Coffee with vanilla syrup and a splash of milk,Iced Coffee
+Iced Coffee with hazelnut syrup and chocolate drizzle,Iced Coffee
+Iced Coffee with mocha syrup and whipped cream,Iced Coffee
+Iced Coffee with caramel syrup and a hint of coconut,Iced Coffee
+Iced Coffee with vanilla syrup and a touch of honey,Iced Coffee
+Iced Coffee with hazelnut syrup and a sprinkle of nutmeg,Iced Coffee
+Iced Coffee with mocha syrup and a swirl of caramel,Iced Coffee
+Iced Coffee with caramel syrup and a sprinkle of cocoa powder,Iced Coffee
+Iced Coffee with vanilla syrup and a touch of almond extract,Iced Coffee
+Iced Coffee with hazelnut syrup and whipped cream,Iced Coffee
+Iced Coffee with mocha syrup and a splash of cream,Iced Coffee
+Iced Coffee with caramel syrup and a drizzle of caramel sauce,Iced Coffee
+Iced Coffee with vanilla syrup and a hint of mint,Iced Coffee
+Iced Coffee with hazelnut syrup and a swirl of chocolate,Iced Coffee
+Iced Coffee with mocha syrup and a dollop of whipped cream,Iced Coffee
+Ice Cold Coffee with caramel flavor and topped with whipped cream and chocolate shavings,Iced Coffee
+Ice-blended Coffee with vanilla flavor and a splash of milk,Iced Coffee
+Iced Coffee with hazelnut essence and a touch of cream,Iced Coffee
+Ice-chilled Coffee with mocha flavor and a swirl of whipped cream,Iced Coffee
+Caramel-infused Iced Coffee with a sprinkle of cinnamon,Iced Coffee
+Vanilla-flavored Iced Coffee with a splash of milk,Iced Coffee
+Ice Cooled Coffee with a hint of hazelnut and drizzle of chocolate,Iced Coffee
+Mocha-flavored Iced Coffee topped with whipped cream,Iced Coffee
+Iced Coffee with caramel syrup and a hint of tropical coconut,Iced Coffee
+Vanilla-infused Iced Coffee with a touch of honey,Iced Coffee
+Iced Coffee with creamy hazelnut syrup and a sprinkle of nutmeg,Iced Coffee
+Cold Brew Coffee with mocha syrup and a swirl of caramel,Iced Coffee
+Sweet Caramel Iced Coffee with a dusting of cocoa powder,Iced Coffee
+Vanilla Iced Coffee with a hint of almond extract,Iced Coffee
+Cooling Hazelnut Iced Coffee with whipped cream,Iced Coffee
+Ice-cold Mocha Coffee with a splash of cream,Iced Coffee
+Iced Coffee with caramel syrup and caramel sauce drizzle,Iced Coffee
+Vanilla Iced Coffee with a touch of mint,Iced Coffee
+Flavored Iced Coffee with hazelnut syrup and chocolate swirl,Iced Coffee
+Iced Mocha Coffee with a creamy whipped cream topping,Iced Coffee
+Chilled Caramel Coffee with a sprinkle of cocoa powder,Iced Coffee
+Vanilla Iced Coffee with a splash of almond extract,Iced Coffee
+Iced Coffee with hazelnut syrup and whipped cream,Iced Coffee
+Iced Mocha Coffee with a dash of cream,Iced Coffee
+Caramel-infused Iced Americano with caramel sauce drizzle,Iced Coffee
+Vanilla-blended Iced Coffee with a hint of tropical coconut,Iced Coffee
+Icy Hazelnut Latte with a touch of honey,Iced Coffee
+Mocha-infused Iced Coffee with a dusting of nutmeg,Iced Coffee
+Cold Brew Coffee with creamy caramel syrup and a swirl of chocolate,Iced Coffee
+Tropical Iced Coffee with a sprinkle of cocoa powder,Iced Coffee
+Vanilla Iced Coffee with a touch of almond extract,Iced Coffee
+Iced Coffee with hazelnut syrup and a swirl of whipped cream,Iced Coffee
+Creamy Mocha Iced Coffee with a drizzle of caramel,Iced Coffee
+Frozen Caramel Coffee with a hint of mint,Iced Coffee
+Vanilla Iced Coffee with a swirl of chocolate and hazelnut,Iced Coffee
+Chilled Mocha Coffee with a dollop of whipped cream,Iced Coffee
+Iced Coffee with caramel syrup and a hint of coconut,Iced Coffee
+Vanilla Cold Brew with a touch of honey,Iced Coffee
+Iced Coffee with hazelnut essence and a sprinkle of nutmeg,Iced Coffee
+Mocha Ice Chilled Coffee with a swirl of caramel,Iced Coffee
+Iced Coffee with caramel syrup and a dusting of cocoa powder,Iced Coffee
+Vanilla Iced Coffee with a hint of almond extract,Iced Coffee
+Iced Coffee with hazelnut syrup and a touch of cream,Iced Coffee
+Iced Mocha Coffee with a splash of cream,Iced Coffee
+Caramel-infused Cold Brew with a caramel sauce drizzle,Iced Coffee
+Vanilla-Flavored Iced Coffee with a tropical coconut twist,Iced Coffee
+Hazelnut Iced Latte with a touch of honey,Iced Coffee
+Creamy Mocha Iced Coffee with a sprinkle of nutmeg,Iced Coffee
+Cold Brew Coffee with caramel syrup and a swirl of chocolate,Iced Coffee
+Iced Coffee with a hint of mint and a sprinkle of cocoa powder,Iced Coffee
+Vanilla Iced Coffee with a touch of almond essence,Iced Coffee
+Hazelnut-infused Iced Coffee with a splash of cream,Iced Coffee
+Ice-cold Mocha Coffee with a drizzle of caramel,Iced Coffee
+Frozen Caramel Coffee with a minty twist,Iced Coffee
+Vanilla Iced Coffee with a swirl of hazelnut and chocolate,Iced Coffee
+Mocha-flavored Iced Coffee with a dollop of whipped cream,Iced Coffee
+Iced Coffee with caramel syrup and a touch of coconut,Iced Coffee
+Vanilla Cold Brew with a hint of honey,Iced Coffee
+Iced Coffee with hints of hazelnut and nutmeg,Iced Coffee
+Mocha Ice Chilled Coffee with a swirl of caramel sauce,Iced Coffee
+Iced Coffee with caramel syrup and a dusting of cocoa,Iced Coffee
+Vanilla Iced Coffee with a hint of almond touch,Iced Coffee
+Iced Coffee with hazelnut syrup and a touch of milk,Iced Coffee
+Iced Mocha Coffee with a splash of cream on top,Iced Coffee
+Caramel-infused Cold Brew with caramel sauce drizzle,Iced Coffee
+Tropical Coconut Iced Latte with a hint of mint,Iced Coffee
+Hazelnut Iced Coffee with a touch of honey twist,Iced Coffee
+Creamy Mocha Iced Coffee with a sprinkle of nutmeg on top,Iced Coffee
+Cold Brew Coffee with caramel syrup and a chocolate swirl,Iced Coffee
+Iced Coffee with a touch of mint and a sprinkle of cocoa powder,Iced Coffee
+Vanilla Iced Coffee with a touch of almond extract twist,Iced Coffee
+Hazelnut-infused Iced Coffee with a swirl of whipped cream,Iced Coffee
+Ice-cold Mocha Coffee with a caramel drizzle,Iced Coffee
+Frozen Caramel Coffee with a refreshing mint flavoring,Iced Coffee
+Vanilla Iced Coffee with a swirl of hazelnut and chocolatey goodness,Iced Coffee
+Mocha-flavored Iced Coffee with a dollop of whipped cream on top,Iced Coffee
+Iced Coffee infused with sweet caramel syrup and a hint of coconut,Iced Coffee
+Vanilla Cold Brew with a hint of honey and a touch of smooth milk,Iced Coffee
+Iced Coffee with hints of hazelnut and a sprinkle of nutmeg,Iced Coffee
+Mocha Ice Chilled Coffee with a swirl of luxurious caramel sauce,Iced Coffee
+Chilled Caramel Macchiato with a dusting of cocoa powder,Iced Coffee
+Blended Vanilla Coffee with a dash of almond extract,Iced Coffee
+Icy Hazelnut Cappuccino with a dollop of whipped cream,Iced Coffee
+Chilled Mocha Latte with a splash of cream,Iced Coffee
+Frozen Caramel Americano with a hint of mint,Iced Coffee
+Chilled Vanilla Frappé blended with chocolate and hazelnut,Iced Coffee
+Frosted Mocha Latte topped with whipped cream,Iced Coffee
+Chilled Coffee with creamy caramel and a sprinkle of cocoa powder,Iced Coffee
+Minty Vanilla Iced Coffee with a touch of almond extract,Iced Coffee
+Cooling Hazelnut Macchiato with whipped cream,Iced Coffee
+Ice-cold Mochaccino with a splash of cream,Iced Coffee
+Iced Caramel Macchiato with caramel sauce drizzle,Iced Coffee
+Vanilla-blended Frosty Coffee with a hint of tropical coconut,Iced Coffee
+Frosty Hazelnut Frappé with a touch of honey,Iced Coffee
+Frozen Mocha Latte with a dusting of nutmeg,Iced Coffee
+Cold Brew Affogato with creamy caramel and chocolate swirl,Iced Coffee
+Icy Tropical Coffee with a sprinkle of cocoa powder,Iced Coffee
+Vanilla Ice Chai with a touch of almond extract,Iced Coffee
+Chilled Hazelnut Mochaccino with swirls of whipped cream,Iced Coffee
+Ice-cold Caramel Frappé with a caramel drizzle,Iced Coffee
+Frozen Mint Mocha Latte with a refreshing minty experience,Iced Coffee
+Vanilla Frosty Coffee with swirls of hazelnut and chocolate,Iced Coffee
+Mocha Macchiato with whipped cream on top,Iced Coffee
+Iced Coffee with creamy caramel syrup and a touch of coconut,Iced Coffee
+Vanilla-infused Cold Brew with a hint of honey,Iced Coffee
+Iced Mocha Americano with subtle hints of hazelnut and nutmeg,Iced Coffee
+Vanilla-blended Iced Coffee with a luxurious swirl of caramel sauce,Iced Coffee
+Frosty Caramel Latte with a sprinkle of cocoa powder,Iced Coffee
+Cooling Mint Coffee with a dash of almond essence,Iced Coffee
+Iced Hazelnut Cappuccino with a touch of cream,Iced Coffee
+Frozen Mocha Macchiato with a drizzle of caramel,Iced Coffee
+Iced Caramel Frappé with a refreshing minty twist,Iced Coffee
+Vanilla-blended Hazelnut Coffee with a swirl of chocolate on top,Iced Coffee
+Frosty Mocha Latte with a dollop of whipped cream,Iced Coffee
+Iced Coffee with creamy caramel syrup and a hint of tropical coconut,Iced Coffee
+Vanilla-infused Cold Brew with a touch of honey and almond extract,Iced Coffee
+Iced Mocha Americano with hints of hazelnut and a sprinkle of nutmeg,Iced Coffee
+Vanilla Frosty Coffee with a swirl of luxurious caramel sauce,Iced Coffee
+Frosty Caramel Macchiato with a dusting of cocoa powder,Iced Coffee
+Cold Mint Chai Latte with a touch of almond twist,Iced Coffee
+Hazelnut Mocha Iced Coffee with a splash of cream,Iced Coffee
+Icy Caramel Cappuccino with a drizzle of caramel,Iced Coffee
+Vanilla-blended Frozen Coffee with a refreshing minty flavor,Iced Coffee
+Frosty Hazelnut Frappé with a swirl of chocolate and hazelnut,Iced Coffee
+Frozen Mocha Macchiato topped with whipped cream,Iced Coffee
+Iced Coffee with creamy caramel syrup and a touch of cocoa,Iced Coffee
+Vanilla Cold Brew with a hint of mint and a dash of almond extract,Iced Coffee
+Frozen Hazelnut Mochaccino with hints of hazelnut and a sprinkle of nutmeg,Iced Coffee
+Frosted Caramel Latte with a swirl of chocolate,Iced Coffee
+Cooling Vanilla Coffee with a sprinkle of cocoa powder,Iced Coffee
+Iced Hazelnut Cappuccino with a dash of almond extract,Iced Coffee
+Chilled Mocha Frappuccino with a drizzle of caramel,Iced Coffee
+Iced Caramel Frappé with a hint of minty freshness,Iced Coffee
+Vanilla-blended Hazelnut Coffee with a swirl of chocolate and hazelnut,Iced Coffee
+Frosty Mocha Macchiato with a dollop of whipped cream on top,Iced Coffee
+Iced Coffee with a touch of coconut and caramel syrup,Iced Coffee
+Cold Brew with creamy caramel and a hint of almond extract,Iced Coffee
+Iced Mocha Americano with a sprinkle of nutmeg and a swirl of caramel,Iced Coffee
+Vanilla Frosty Coffee with a swirl of luxurious caramel and a dusting of cocoa powder,Iced Coffee
+Frosted Caramel Macchiato with a hint of almond touch,Iced Coffee
+Minty Vanilla Iced Coffee with swirls of hazelnut and whipped cream,Iced Coffee
+Chilled Hazelnut Frappé with a touch of tropical coconut,Iced Coffee
+Frozen Mocha Latte with a dusting of nutmeg and a swirl of chocolate,Iced Coffee
+Cooling Caramel Latte with creamy caramel syrup and a chocolate swirl,Iced Coffee
+Icy Tropical Coffee with a sprinkle of cocoa powder and a touch of mint,Iced Coffee
+Vanilla Ice Chai with a swirl of hazelnut and a hint of almond extract,Iced Coffee
+Chilled Mochaccino with a dollop of whipped cream and a swirl of caramel,Iced Coffee
+Ice-cold Caramel Frappé with a drizzle of caramel sauce on top,Iced Coffee
+Frozen Mint Mocha Latte with hints of hazelnut and a refreshingly minty experience,Iced Coffee
+Vanilla Frosty Coffee with a touch of coconut and swirls of chocolate and hazelnut,Iced Coffee
+Mocha Macchiato with a sprinkle of nutmeg and whipped cream on top,Iced Coffee
+Iced Coffee with creamy caramel syrup and a hint of tropical coconut,Iced Coffee
+Vanilla-infused Cold Brew with a touch of honey and a swirl of luxurious caramel sauce,Iced Coffee
+Iced Mocha Americano with hints of hazelnut and nutmeg and a drizzle of caramel,Iced Coffee
+Frosty Caramel Latte with a dusting of cocoa and swirls of chocolate and hazelnut,Iced Coffee
+Cold Mint Chai Latte with a touch of almond essence and a hint of mint,Iced Coffee
+Hazelnut Mocha Iced Coffee with a splash of cream and a sprinkle of nutmeg,Iced Coffee
+Icy Caramel Cappuccino with a drizzle of caramel and whipped cream on top,Iced Coffee
+Vanilla-blended Frozen Coffee with a touch of cocoa and a swirl of chocolate and hazelnut,Iced Coffee
+Frosty Hazelnut Frappé with a swirl of chocolate and hints of hazelnut and coconut,Iced Coffee
+Frozen Mocha Macchiato topped with whipped cream and a dash of almond extract,Iced Coffee
+Iced Coffee with creamy caramel syrup and a touch of mint and coconut,Iced Coffee
+Vanilla Cold Brew with a hint of almond extract and a touch of honey,Iced Coffee
+Frozen Hazelnut Mochaccino with swirls of hazelnut and nutmeg and a sprinkle of cocoa,Iced Coffee
+Frosted Caramel Latte with a swirl of chocolate and a dusting of cocoa powder,Iced Coffee
+Cooling Vanilla Coffee with a sprinkle of cocoa powder and a hint of mint,Iced Coffee
+Iced Hazelnut Cappuccino with a splash of cream and a touch of almond essence,Iced Coffee
+Chilled Mocha Frappuccino with a drizzle of caramel and whipped cream on top,Iced Coffee
+Iced Caramel Frappé with a refreshing minty twist and a hint of coconut,Iced Coffee
+Vanilla-blended Hazelnut Coffee with a swirl of chocolate and a hint of almond extract,Iced Coffee
+Frosty Mocha Macchiato with a dollop of whipped cream and a sprinkle of nutmeg,Iced Coffee
+Iced Coffee with creamy caramel syrup and a hint of tropical coconut and cocoa,Iced Coffee
+Cold Brew with swirls of luxurious caramel and a touch of honey and almond extract,Iced Coffee
+Iced Mocha Americano with hints of hazelnut and a sprinkle of nutmeg and a drizzle of caramel,Iced Coffee
+Vanilla Frosty Coffee with a swirl of luxurious caramel and a dusting of cocoa powder and almond touch,Iced Coffee
+Frosty Caramel Macchiato with a dusting of cocoa and swirls of chocolate and a hint of mint,Iced Coffee
+Minty Vanilla Iced Coffee with swirls of hazelnut and whipped cream and a touch of coconut,Iced Coffee
+Chilled Hazelnut Frappé with a touch of tropical coconut and a sprinkle of cocoa and almond twist,Iced Coffee
+Frozen Mocha Latte with a dusting of nutmeg and a swirl of chocolate and whipped cream on top,Iced Coffee
+Cooling Caramel Latte with creamy caramel syrup and a chocolate swirl and a hint of mint,Iced Coffee
