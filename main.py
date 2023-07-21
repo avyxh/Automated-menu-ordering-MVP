@@ -36,50 +36,59 @@ X_test_counts = tfidf.transform(X_test)
 model = MultinomialNB()
 model.fit(X_train_counts, y_train)
 
+y_pred_prob = model.predict_proba(X_test_counts)
+y_predict_0 = y_pred_prob[:, 0]
+y_predict_1 = y_pred_prob[:, 1]
+predicted = pd.DataFrame()
+predicted["Big Mac"] = y_predict_0
+predicted["Iced Coffee"] = y_predict_1
+print(predicted.head())
+
 y_pred = model.predict(X_test_counts)
 acc = metrics.accuracy_score(y_test, y_pred)
+print(f"\nFinal accuracy: {acc*100}%\n")
 
-print(f"Accuracy: {acc*100}%")
+# Testing with multiple categories (menu items)
 
-
-'''
-Code for tfidf with logistic regression (gives error)
-
-X_train, X_test, y_train, y_test = train_test_split(
-    df, df['item'], shuffle=True, test_size=0.2, random_state=1)
-
-tfidf_vectorizer = TfidfVectorizer(use_idf=True)
-X_train_vectors_tfidf = tfidf_vectorizer.fit_transform(X_train)
-X_test_vectors_tfidf = tfidf_vectorizer.transform(X_test)
-
-print(X_train_vectors_tfidf)
-print(y_train)
-
-lr_tfidf = LogisticRegression(solver='liblinear', C=10, penalty='l2')
-lr_tfidf.fit(X_train_vectors_tfidf, y_train)
-# Predict y value for test dataset
-y_predict = lr_tfidf.predict(X_test_vectors_tfidf)
-y_prob = lr_tfidf.predict_proba(X_test_vectors_tfidf)[:, 1]
-print(classification_report(y_test, y_predict))
-print('Confusion Matrix:', confusion_matrix(y_test, y_predict))
-
-fpr, tpr, thresholds = roc_curve(y_test, y_prob)
-roc_auc = auc(fpr, tpr)
-print('AUC:', roc_auc)
-'''
-
-'''
-Code for random forest classifier in case we decide to use it
+df1 = pd.read_csv(os.path.join(
+    os.path.dirname(__file__), "multiple_items.csv"))
+df2 = pd.read_csv(os.path.join(os.path.dirname(
+    __file__), "multiple_items_tester.csv"))
 
 
-X_train, X_test, y_train, y_test = train_test_split(
-    df, df['item'], shuffle=True, test_size=0.2, random_state=1)
+def test(df):
+    X_train, X_test, y_train, y_test = train_test_split(
+        df['descriptor'], df['item'], shuffle=True, test_size=0.2, random_state=None)
 
-rf = RandomForestClassifier()
-rf.fit(X_train, y_train)
-y_pred = rf.predict(X_test)
+    tfidf = TfidfVectorizer(sublinear_tf=True,
+                            min_df=25,
+                            max_df=150,
+                            norm='l1',
+                            ngram_range=(1, 1),
+                            stop_words='english')
 
-acc = metrics.accuracy_score(y_test, y_pred)
+    X_train_counts = tfidf.fit_transform(X_train)
+    X_test_counts = tfidf.transform(X_test)
 
-print("Accuracy: " + acc)
-'''
+    model = MultinomialNB(alpha=1e-06)
+    model.fit(X_train_counts, y_train)
+
+    y_pred_prob = model.predict_proba(X_test_counts)
+    y_predict_0 = y_pred_prob[:, 0]
+    y_predict_1 = y_pred_prob[:, 1]
+    y_predict_2 = y_pred_prob[:, 2]
+    predicted = pd.DataFrame()
+    predicted["Chicken McNuggets"] = y_predict_0
+    predicted["Iced Coffee"] = y_predict_1
+    predicted["Quarter Pounder"] = y_predict_2
+    print(f"\n{predicted.head()}")
+
+    y_pred = model.predict(X_test_counts)
+    acc = metrics.accuracy_score(y_test, y_pred)
+
+    return f"\nFinal accuracy: {acc*100}%\n"
+
+
+print(test(df1))
+
+print(test(df2))
