@@ -17,20 +17,20 @@ from pprint import pprint
 from sklearn.model_selection import GridSearchCV
 
 absolute_path = os.path.dirname(__file__)
-relative_path = "three_items_import.csv"
+relative_path = "large-three-item.csv"
 full_path = os.path.join(absolute_path, relative_path)
 df = pd.read_csv(full_path)
 
 X_train, X_test, y_train, y_test = train_test_split(
-    df['descriptor'], df['item'], shuffle=True, test_size=0.2, random_state=None)
+    df['descriptor'].values.astype('U'), df['item'].values.astype('U'), shuffle=True, test_size=0.2, random_state=None)
 
 # all the code following this is to test various parameters for the vectorizer and classifier
 # and identify ideal parameters
 pipeline = Pipeline([("vect", TfidfVectorizer()), ("clf", MultinomialNB())])
 
 parameter_grid = {
-    "vect__max_df": (75, 100, 125, 150, 175, 200),
-    "vect__min_df": (5, 7, 9, 10, 25, 50, 75),
+    "vect__max_df": (50, 75, 100, 125, 150),
+    "vect__min_df": (1, 5, 10, 15, 20, 25, 50),
     "vect__ngram_range": ((1, 1), (1, 2)),  # unigrams or bigrams
     "vect__norm": ("l1", "l2"),
     "clf__alpha": np.logspace(-6, 6, 13),
