@@ -17,7 +17,7 @@ from pprint import pprint
 from sklearn.model_selection import GridSearchCV
 
 absolute_path = os.path.dirname(__file__)
-relative_path = "large_data.csv"
+relative_path = "three_items_import.csv"
 full_path = os.path.join(absolute_path, relative_path)
 df = pd.read_csv(full_path)
 
@@ -29,8 +29,8 @@ X_train, X_test, y_train, y_test = train_test_split(
 pipeline = Pipeline([("vect", TfidfVectorizer()), ("clf", MultinomialNB())])
 
 parameter_grid = {
-    "vect__max_df": (125, 150, 175, 200),
-    "vect__min_df": (25, 50, 75),
+    "vect__max_df": (75, 100, 125, 150, 175, 200),
+    "vect__min_df": (5, 7, 9, 10, 25, 50, 75),
     "vect__ngram_range": ((1, 1), (1, 2)),  # unigrams or bigrams
     "vect__norm": ("l1", "l2"),
     "clf__alpha": np.logspace(-6, 6, 13),

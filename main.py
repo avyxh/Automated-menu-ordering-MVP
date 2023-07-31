@@ -55,6 +55,9 @@ df1 = pd.read_csv(os.path.join(
 df2 = pd.read_csv(os.path.join(os.path.dirname(
     __file__), "multiple_items_tester.csv"))
 
+df_test = pd.read_csv(os.path.join(os.path.dirname(
+    __file__), "three_items_import.csv"))
+
 
 def test(df):
     X_train, X_test, y_train, y_test = train_test_split(
@@ -88,10 +91,41 @@ def test(df):
     return acc
 
 
+def test_import(df):
+    X_train, X_test, y_train, y_test = train_test_split(
+        df['descriptor'], df['item'], shuffle=True, test_size=0.2, random_state=None)
+
+    tfidf = TfidfVectorizer(sublinear_tf=True,
+                            min_df=10,
+                            max_df=75,
+                            norm='l1',
+                            ngram_range=(1, 1),
+                            stop_words='english')
+
+    X_train_counts = tfidf.fit_transform(X_train)
+    X_test_counts = tfidf.transform(X_test)
+
+    model = MultinomialNB(alpha=1e-06)
+    model.fit(X_train_counts, y_train)
+
+    y_pred = model.predict(X_test_counts)
+    acc = metrics.accuracy_score(y_test, y_pred)
+
+    return acc
+
+
 max = 0
 for i in range(100):
     curr = test(df1)
     if curr > max:
         max = curr
 
-print(f"\nMax accuracy: {max*100}%\n")
+print(f"\nMax accuracy for initial multiple items dataset: {max*100}%\n")
+
+max = 0
+for i in range(100):
+    curr = test_import(df_test)
+    if curr > max:
+        max = curr
+
+print(f"\nMax accuracy for test dataset: {max*100}%\n")
