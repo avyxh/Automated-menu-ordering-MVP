@@ -17,7 +17,7 @@ from pprint import pprint
 from sklearn.model_selection import GridSearchCV
 
 absolute_path = os.path.dirname(__file__)
-relative_path = "large-three-item.csv"
+relative_path = "Vague_dataset.csv"
 full_path = os.path.join(absolute_path, relative_path)
 df = pd.read_csv(full_path)
 
@@ -30,7 +30,7 @@ pipeline = Pipeline([("vect", TfidfVectorizer()), ("clf", MultinomialNB())])
 
 parameter_grid = {
     "vect__max_df": (50, 75, 100, 125, 150),
-    "vect__min_df": (1, 5, 10, 15, 20, 25, 50),
+    "vect__min_df": (1, 5, 10, 15, 20),
     "vect__ngram_range": ((1, 1), (1, 2)),  # unigrams or bigrams
     "vect__norm": ("l1", "l2"),
     "clf__alpha": np.logspace(-6, 6, 13),

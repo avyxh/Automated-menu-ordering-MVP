@@ -56,7 +56,7 @@ df2 = pd.read_csv(os.path.join(os.path.dirname(
     __file__), "multiple_items_tester.csv"))
 
 df_test = pd.read_csv(os.path.join(os.path.dirname(
-    __file__), "large-three-item.csv"))
+    __file__), "Vague_dataset.csv"))
 
 
 def test(df):
@@ -96,10 +96,10 @@ def test_import(df):
         df['descriptor'].values.astype('U'), df['item'].values.astype('U'), shuffle=True, test_size=0.2, random_state=None)
 
     tfidf = TfidfVectorizer(sublinear_tf=True,
-                            min_df=5,
+                            min_df=1,
                             max_df=75,
                             norm='l1',
-                            ngram_range=(1, 2),
+                            ngram_range=(1, 1),
                             stop_words='english')
 
     X_train_counts = tfidf.fit_transform(X_train)
@@ -128,4 +128,4 @@ for i in range(100):
     if curr > max:
         max = curr
 
-print(f"\nMax accuracy for test dataset: {max*100}%")
+print(f"\nMax accuracy for vague dataset: {max*100}%")
