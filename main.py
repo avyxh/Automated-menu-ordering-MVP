@@ -88,7 +88,7 @@ def test(df):
     y_pred = model.predict(X_test_counts)
     acc = metrics.accuracy_score(y_test, y_pred)
 
-    return acc
+    return acc, model, tfidf
 
 
 def test_import(df):
@@ -111,7 +111,7 @@ def test_import(df):
     y_pred = model.predict(X_test_counts)
     acc = metrics.accuracy_score(y_test, y_pred)
 
-    return acc
+    return acc, model, tfidf
 
 
 max = 0
@@ -129,3 +129,13 @@ for i in range(100):
         max = curr
 
 print(f"\nMax accuracy for vague dataset: {max*100}%")
+
+def test_order (order, df):
+    acc, tfidf, model = test(df)
+    input = np.array([order])
+    input_counts = tfidf.transform(input)
+    guess = model.predict(input_counts)
+    print(guess[0])
+
+#example
+test_order("May I have an iced coffee?", df1)
