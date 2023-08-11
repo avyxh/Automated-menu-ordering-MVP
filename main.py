@@ -130,7 +130,7 @@ for i in range(100):
 
 print(f"\nMax accuracy for vague dataset: {max*100}%")
 
-def test_order (order, df):
+'''def test_order (order, df):
     acc, tfidf, model = test(df)
     input = np.array([order])
     input_counts = tfidf.transform(input)
@@ -138,4 +138,29 @@ def test_order (order, df):
     print(guess[0])
 
 #example
-test_order("May I have an iced coffee?", df1)
+test_order("May I have an iced coffee?", df1)'''
+
+def test_reply (order, df):
+    acc, tfidf, model = test(df)
+    input = np.array([order])
+    input_counts = tfidf.transform(input)
+    y_pred_prob = model.predict_proba(input_counts)
+    dict = {"Chicken McNuggets" : y_pred_prob[:, 0], 
+            "Iced Coffee" : y_pred_prob[:, 1], 
+            "Quarter Pounder" : y_pred_prob[:, 2]}
+    largest_element = y_pred_prob.max()
+    if largest_element >= (2/(len(y_pred_prob[0]))):
+        reply = model.predict(input_counts)[0]
+    elif largest_element >= (1/(len(y_pred_prob[0]))):
+        to_ask = []
+        for x in range(len(y_pred_prob[0])):
+            if dict[list(dict)[x]] >= (1/(len(y_pred_prob[0]))):
+                to_ask.append(list(dict)[x])
+                if len(to_ask) == 1:
+                    reply = "Are you trying to order a " + to_ask[0] + "? Please confirm."
+                else:
+                    reply = "It seems like you're trying to order one of the following items: " + ", ".join(to_ask) + ". Please confirm which item you would like to order."
+    else:
+        reply = "I'm sorry, I didn't quite get that! Could you please try to rephrase your order?"
+    print(reply)
+    return reply
