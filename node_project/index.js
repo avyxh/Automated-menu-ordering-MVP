@@ -4,7 +4,7 @@
 const tf = require("@tensorflow/tfjs-core");
 const modelPath = './model.json';
 
-//should be:
+//should be (replace with this if download works):
 //const tf = require('@tensorflow/tfjs-node');
 //const modelPath = './path/to/tfjs/model/model.json';
 
