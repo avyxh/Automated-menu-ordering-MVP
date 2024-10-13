@@ -1,4 +1,5 @@
 
+from typing import final
 import matplotlib.pyplot as plt
 import numpy as np
 import os
@@ -13,8 +14,14 @@ from sklearn.metrics import roc_curve, auc, roc_auc_score
 from sklearn.metrics import classification_report, f1_score, accuracy_score, confusion_matrix
 from sklearn.naive_bayes import MultinomialNB
 
-
+'''
 df1 = pd.read_csv("large-three-item.csv")
+acct, tfidft, modelt = test(df1)
+descriptors = df1['descriptor'].tolist()
+for x in range(len(descriptors)):
+    test_reply(descriptors[x], acct, tfidft, modelt, df1)
+
+'''
 
 
 def test(df):
@@ -83,12 +90,12 @@ def test_reply(order, acc, tfidf, model, df):
                         a = input(reply_rep)
                         item = test_order(a, df)
                         ans = input(
-                            "It looks like you're trying to order " + item + ". Please confirm. Y / N?\n")
+                            "It looks like you're ordering " + item + ". Please confirm. Y / N?\n")
                         while (ans.replace(" ", "").lower() == "n" or ans.replace(" ", "").lower() == "no"):
                             reply_rep = "Please try to input the item again.\n"
                             item = test_order(input(reply_rep), df)
                             ans = input(
-                                "It looks like you're trying to order " + item + ". Please confirm. Y / N?\n")
+                                "It looks like you're ordering " + item + ". Please confirm. Y / N?\n")
                         return item
                 else:
                     number_list = ""
@@ -118,7 +125,7 @@ def run_list(my_list, df):
     acc1, tfidf1, model1 = test(df)
     current_list = []
     for x in my_list:
-        item = test_reply(x, acc1, tfidf1, model1)
+        item = test_reply(x, acc1, tfidf1, model1, df)
         if item in items:
             current_list.append(item)
         else:
@@ -130,12 +137,12 @@ def run_list(my_list, df):
                     "We're having an issue understanding this order. Moving to next item...")
     print(current_list)
     # may generate error
-    order_conf = input("Please confirm if this is your final order. Y / N")
+    order_conf = input("Please confirm if this is your final order. Y / N\n")
     if order_conf.replace(" ", "").lower() == "y" or order_conf.replace(" ", "").lower() == "yes":
         final_list = current_list
         return final_list
     elif order_conf.replace(" ", "").lower() == "n" or order_conf.replace(" ", "").lower() == "no":
-        add_rem = input("Would you like to add or delete items? A / D")
+        add_rem = input("Would you like to add or delete items? A / D\n")
         if add_rem.replace(" ", "").lower() == "a" or add_rem.replace(" ", "").lower() == "add":
             # needs to somehow run data through ChatGPT and obtain new list as new_list
             for x in new_list:
@@ -155,16 +162,20 @@ def run_list(my_list, df):
             for c in current_list:
                 print(c + " " + str(current_list.index(c)))
             ans = input(
-                "Please input the number(s) corresponding to the item(s) you would like to delete, seperated by commas")
+                "Please input the number(s) corresponding to the item(s) you would like to delete, seperated by commas\n")
             del_list = ans.split(",")
             for y in del_list:
-                current_list.remove(y)
+                current_list.remove(current_list[int(del_list[int(y)])])
             final_list = current_list
+            print("Here is the final order: ")
+            print(final_list)
             return final_list
 
 
-df1 = pd.read_csv("large-three-item.csv")
-acct, tfidft, modelt = test(df1)
-descriptors = df1['descriptor'].tolist()
-for x in range(len(descriptors)):
-    test_reply(descriptors[x], acct, tfidft, modelt, df1)
+df1 = pd.read_csv("Vague_dataset.csv")
+
+orders_list = ["Can I order the delicious iced java?",
+               "Can I order the delicious chicken nuggets?",
+               "Can I order the delicious beef burger?"]
+
+run_list(orders_list, df1)
